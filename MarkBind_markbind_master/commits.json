@@ -638,7 +638,7 @@
         "untilDate": "2019-01-21"
       },
       {
-        "insertions": 0,
+        "insertions": 27,
         "deletions": 0,
         "sinceDate": "2019-01-21",
         "untilDate": "2019-01-28"
@@ -5146,8 +5146,8 @@
         "untilDate": "2019-01-21"
       },
       {
-        "insertions": 21,
-        "deletions": 8,
+        "insertions": 40,
+        "deletions": 17,
         "sinceDate": "2019-01-21",
         "untilDate": "2019-01-28"
       }
@@ -13518,8 +13518,8 @@
         "untilDate": "2019-01-21"
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 1,
+        "deletions": 1,
         "sinceDate": "2019-01-21",
         "untilDate": "2019-01-28"
       }
@@ -19284,6 +19284,12 @@
         "deletions": 0,
         "sinceDate": "2019-01-23",
         "untilDate": "2019-01-24"
+      },
+      {
+        "insertions": 27,
+        "deletions": 0,
+        "sinceDate": "2019-01-24",
+        "untilDate": "2019-01-25"
       }
     ],
     "Jason Jiang": [
@@ -23756,6 +23762,12 @@
         "deletions": 0,
         "sinceDate": "2019-01-23",
         "untilDate": "2019-01-24"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2019-01-24",
+        "untilDate": "2019-01-25"
       }
     ],
     "Chng Zhi Xuan": [
@@ -28228,6 +28240,12 @@
         "deletions": 0,
         "sinceDate": "2019-01-23",
         "untilDate": "2019-01-24"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2019-01-24",
+        "untilDate": "2019-01-25"
       }
     ],
     "rachael": [
@@ -32700,6 +32718,12 @@
         "deletions": 0,
         "sinceDate": "2019-01-23",
         "untilDate": "2019-01-24"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2019-01-24",
+        "untilDate": "2019-01-25"
       }
     ],
     "Daniel Berzin Chua": [
@@ -37172,6 +37196,12 @@
         "deletions": 0,
         "sinceDate": "2019-01-23",
         "untilDate": "2019-01-24"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2019-01-24",
+        "untilDate": "2019-01-25"
       }
     ],
     "Nicholas Chua": [
@@ -41644,6 +41674,12 @@
         "deletions": 0,
         "sinceDate": "2019-01-23",
         "untilDate": "2019-01-24"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2019-01-24",
+        "untilDate": "2019-01-25"
       }
     ],
     "marvinchin": [
@@ -46116,6 +46152,12 @@
         "deletions": 0,
         "sinceDate": "2019-01-23",
         "untilDate": "2019-01-24"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2019-01-24",
+        "untilDate": "2019-01-25"
       }
     ],
     "Kenneth Lu": [
@@ -50588,6 +50630,12 @@
         "deletions": 0,
         "sinceDate": "2019-01-23",
         "untilDate": "2019-01-24"
+      },
+      {
+        "insertions": 19,
+        "deletions": 9,
+        "sinceDate": "2019-01-24",
+        "untilDate": "2019-01-25"
       }
     ],
     "Jiang Sheng": [
@@ -55060,6 +55108,12 @@
         "deletions": 0,
         "sinceDate": "2019-01-23",
         "untilDate": "2019-01-24"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2019-01-24",
+        "untilDate": "2019-01-25"
       }
     ],
     "Tan Zhen Yong": [
@@ -59532,6 +59586,12 @@
         "deletions": 29,
         "sinceDate": "2019-01-23",
         "untilDate": "2019-01-24"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2019-01-24",
+        "untilDate": "2019-01-25"
       }
     ],
     "nusjzx": [
@@ -64004,6 +64064,12 @@
         "deletions": 0,
         "sinceDate": "2019-01-23",
         "untilDate": "2019-01-24"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2019-01-24",
+        "untilDate": "2019-01-25"
       }
     ],
     "Chng-Zhi-Xuan": [
@@ -68476,6 +68542,12 @@
         "deletions": 0,
         "sinceDate": "2019-01-23",
         "untilDate": "2019-01-24"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2019-01-24",
+        "untilDate": "2019-01-25"
       }
     ],
     "Thomas Tan": [
@@ -72948,6 +73020,12 @@
         "deletions": 0,
         "sinceDate": "2019-01-23",
         "untilDate": "2019-01-24"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2019-01-24",
+        "untilDate": "2019-01-25"
       }
     ],
     "Aaron Chong": [
@@ -77420,6 +77498,12 @@
         "deletions": 0,
         "sinceDate": "2019-01-23",
         "untilDate": "2019-01-24"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2019-01-24",
+        "untilDate": "2019-01-25"
       }
     ],
     "Dan": [
@@ -81892,6 +81976,12 @@
         "deletions": 0,
         "sinceDate": "2019-01-23",
         "untilDate": "2019-01-24"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2019-01-24",
+        "untilDate": "2019-01-25"
       }
     ],
     "Li JiaYao": [
@@ -86364,6 +86454,12 @@
         "deletions": 0,
         "sinceDate": "2019-01-23",
         "untilDate": "2019-01-24"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2019-01-24",
+        "untilDate": "2019-01-25"
       }
     ],
     "nicholaschuayunzhi": [
@@ -90836,6 +90932,12 @@
         "deletions": 0,
         "sinceDate": "2019-01-23",
         "untilDate": "2019-01-24"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2019-01-24",
+        "untilDate": "2019-01-25"
       }
     ],
     "Tan Wang Leng": [
@@ -95308,6 +95410,12 @@
         "deletions": 0,
         "sinceDate": "2019-01-23",
         "untilDate": "2019-01-24"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2019-01-24",
+        "untilDate": "2019-01-25"
       }
     ],
     "jamos-tay": [
@@ -99780,6 +99888,12 @@
         "deletions": 0,
         "sinceDate": "2019-01-23",
         "untilDate": "2019-01-24"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2019-01-24",
+        "untilDate": "2019-01-25"
       }
     ],
     "Jamos Tay": [
@@ -104252,6 +104366,12 @@
         "deletions": 0,
         "sinceDate": "2019-01-23",
         "untilDate": "2019-01-24"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2019-01-24",
+        "untilDate": "2019-01-25"
       }
     ],
     "Aadyaa Maddi": [
@@ -108724,6 +108844,12 @@
         "deletions": 0,
         "sinceDate": "2019-01-23",
         "untilDate": "2019-01-24"
+      },
+      {
+        "insertions": 1,
+        "deletions": 1,
+        "sinceDate": "2019-01-24",
+        "untilDate": "2019-01-25"
       }
     ],
     "Damith C. Rajapakse": [
@@ -113196,6 +113322,12 @@
         "deletions": 0,
         "sinceDate": "2019-01-23",
         "untilDate": "2019-01-24"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2019-01-24",
+        "untilDate": "2019-01-25"
       }
     ],
     "Rachael Sim": [
@@ -117668,19 +117800,25 @@
         "deletions": 0,
         "sinceDate": "2019-01-23",
         "untilDate": "2019-01-24"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2019-01-24",
+        "untilDate": "2019-01-25"
       }
     ]
   },
   "authorFinalContributionMap": {
-    "Marvin Chin": 2,
-    "Jason Jiang": 4811,
+    "Marvin Chin": 29,
+    "Jason Jiang": 4810,
     "Chng Zhi Xuan": 0,
     "rachael": 383,
     "Daniel Berzin Chua": 98,
     "Nicholas Chua": 10,
     "marvinchin": 102,
-    "Kenneth Lu": 21,
-    "Jiang Sheng": 563,
+    "Kenneth Lu": 40,
+    "Jiang Sheng": 562,
     "Tan Zhen Yong": 781,
     "nusjzx": 535,
     "Chng-Zhi-Xuan": 3917,
@@ -117693,33 +117831,33 @@
     "jamos-tay": 28,
     "Jamos Tay": 1504,
     "Aadyaa Maddi": 21,
-    "Damith C. Rajapakse": 2379,
+    "Damith C. Rajapakse": 2372,
     "Rachael Sim": 1
   },
   "authorContributionVariance": {
-    "Marvin Chin": 0.0053619198,
-    "Jason Jiang": 23432.086,
+    "Marvin Chin": 0.9810626,
+    "Jason Jiang": 23401.021,
     "Chng Zhi Xuan": 0.0,
-    "rachael": 138.87352,
-    "Daniel Berzin Chua": 516.52075,
-    "Nicholas Chua": 0.3228396,
-    "marvinchin": 15.926246,
-    "Kenneth Lu": 1.1273438,
-    "Jiang Sheng": 1207.5795,
-    "Tan Zhen Yong": 161.50475,
-    "nusjzx": 227.55222,
-    "Chng-Zhi-Xuan": 40050.055,
-    "Thomas Tan": 0.0053619174,
-    "Aaron Chong": 2622.7058,
-    "Dan": 827.54877,
-    "Li JiaYao": 0.005361919,
-    "nicholaschuayunzhi": 50674.004,
-    "Tan Wang Leng": 206.36852,
-    "jamos-tay": 1.5705514,
-    "Jamos Tay": 11395.512,
-    "Aadyaa Maddi": 8.309186,
-    "Damith C. Rajapakse": 21238.871,
-    "Rachael Sim": 1.2881932
+    "rachael": 138.6894,
+    "Daniel Berzin Chua": 515.83075,
+    "Nicholas Chua": 0.32240772,
+    "marvinchin": 15.904926,
+    "Kenneth Lu": 2.172446,
+    "Jiang Sheng": 1205.9907,
+    "Tan Zhen Yong": 161.2906,
+    "nusjzx": 227.24951,
+    "Chng-Zhi-Xuan": 39996.79,
+    "Thomas Tan": 0.00535474,
+    "Aaron Chong": 2619.2341,
+    "Dan": 826.4544,
+    "Li JiaYao": 0.005354741,
+    "nicholaschuayunzhi": 50606.465,
+    "Tan Wang Leng": 206.09517,
+    "jamos-tay": 1.5684497,
+    "Jamos Tay": 11380.359,
+    "Aadyaa Maddi": 8.30266,
+    "Damith C. Rajapakse": 21210.418,
+    "Rachael Sim": 1.2864704
   },
   "authorDisplayNameMap": {
     "Marvin Chin": "Marvin Chin",
