@@ -31357,206 +31357,220 @@
         "author": {
           "gitId": "eugenepeh"
         },
-        "content": "    /**"
+        "content": "    private static final String REVISION_PATH_SEPARATOR \u003d \" -- \";"
       },
       {
         "lineNumber": 16,
         "author": {
           "gitId": "eugenepeh"
         },
-        "content": "     * Returns the latest commit hash before {@code date}."
+        "content": ""
       },
       {
         "lineNumber": 17,
         "author": {
           "gitId": "eugenepeh"
         },
-        "content": "     * Returns an empty {@code String} if {@code date} is null, or there is no such commit."
+        "content": "    /**"
       },
       {
         "lineNumber": 18,
         "author": {
           "gitId": "eugenepeh"
         },
-        "content": "     */"
+        "content": "     * Returns the latest commit hash before {@code date}."
       },
       {
         "lineNumber": 19,
         "author": {
           "gitId": "eugenepeh"
         },
-        "content": "    public static String getCommitHashBeforeDate(String root, String branchName, Date date) {"
+        "content": "     * Returns an empty {@code String} if {@code date} is null, or there is no such commit."
       },
       {
         "lineNumber": 20,
         "author": {
           "gitId": "eugenepeh"
         },
-        "content": "        if (date \u003d\u003d null) {"
+        "content": "     */"
       },
       {
         "lineNumber": 21,
         "author": {
           "gitId": "eugenepeh"
         },
-        "content": "            return \"\";"
+        "content": "    public static String getCommitHashBeforeDate(String root, String branchName, Date date) {"
       },
       {
         "lineNumber": 22,
         "author": {
           "gitId": "eugenepeh"
         },
-        "content": "        }"
+        "content": "        if (date \u003d\u003d null) {"
       },
       {
         "lineNumber": 23,
         "author": {
           "gitId": "eugenepeh"
         },
-        "content": ""
+        "content": "            return \"\";"
       },
       {
         "lineNumber": 24,
         "author": {
           "gitId": "eugenepeh"
         },
-        "content": "        Path rootPath \u003d Paths.get(root);"
+        "content": "        }"
       },
       {
         "lineNumber": 25,
         "author": {
           "gitId": "eugenepeh"
         },
-        "content": "        String revListCommand \u003d \"git rev-list -1 --before\u003d\""
+        "content": ""
       },
       {
         "lineNumber": 26,
         "author": {
           "gitId": "eugenepeh"
         },
-        "content": "                + GitUtil.GIT_LOG_SINCE_DATE_FORMAT.format(date) + \" \" + branchName;"
+        "content": "        Path rootPath \u003d Paths.get(root);"
       },
       {
         "lineNumber": 27,
         "author": {
           "gitId": "eugenepeh"
         },
-        "content": "        return runCommand(rootPath, revListCommand);"
+        "content": "        String revListCommand \u003d \"git rev-list -1 --before\u003d\""
       },
       {
         "lineNumber": 28,
         "author": {
           "gitId": "eugenepeh"
         },
-        "content": "    }"
+        "content": "                + GitUtil.GIT_LOG_SINCE_DATE_FORMAT.format(date) + \" \" + branchName + REVISION_PATH_SEPARATOR;"
       },
       {
         "lineNumber": 29,
         "author": {
           "gitId": "eugenepeh"
         },
-        "content": ""
+        "content": "        return runCommand(rootPath, revListCommand);"
       },
       {
         "lineNumber": 30,
         "author": {
           "gitId": "eugenepeh"
         },
-        "content": "    /**"
+        "content": "    }"
       },
       {
         "lineNumber": 31,
         "author": {
           "gitId": "eugenepeh"
         },
-        "content": "     * Returns the latest commit hash inclusive and until the end of the day of {@code date}."
+        "content": ""
       },
       {
         "lineNumber": 32,
         "author": {
           "gitId": "eugenepeh"
         },
-        "content": "     * Returns an empty {@code String} if {@code date} is null, or there is no such commit."
+        "content": "    /**"
       },
       {
         "lineNumber": 33,
         "author": {
           "gitId": "eugenepeh"
         },
-        "content": "     */"
+        "content": "     * Returns the latest commit hash inclusive and until the end of the day of {@code date}."
       },
       {
         "lineNumber": 34,
         "author": {
           "gitId": "eugenepeh"
         },
-        "content": "    public static String getCommitHashUntilDate(String root, String branchName, Date date) {"
+        "content": "     * Returns an empty {@code String} if {@code date} is null, or there is no such commit."
       },
       {
         "lineNumber": 35,
         "author": {
           "gitId": "eugenepeh"
         },
-        "content": "        if (date \u003d\u003d null) {"
+        "content": "     */"
       },
       {
         "lineNumber": 36,
         "author": {
           "gitId": "eugenepeh"
         },
-        "content": "            return \"\";"
+        "content": "    public static String getCommitHashUntilDate(String root, String branchName, Date date) {"
       },
       {
         "lineNumber": 37,
         "author": {
           "gitId": "eugenepeh"
         },
-        "content": "        }"
+        "content": "        if (date \u003d\u003d null) {"
       },
       {
         "lineNumber": 38,
         "author": {
           "gitId": "eugenepeh"
         },
-        "content": ""
+        "content": "            return \"\";"
       },
       {
         "lineNumber": 39,
         "author": {
           "gitId": "eugenepeh"
         },
-        "content": "        Path rootPath \u003d Paths.get(root);"
+        "content": "        }"
       },
       {
         "lineNumber": 40,
         "author": {
           "gitId": "eugenepeh"
         },
-        "content": "        String revListCommand \u003d \"git rev-list -1 --before\u003d\""
+        "content": ""
       },
       {
         "lineNumber": 41,
         "author": {
           "gitId": "eugenepeh"
         },
-        "content": "                + GitUtil.GIT_LOG_UNTIL_DATE_FORMAT.format(date) + \" \" + branchName;"
+        "content": "        Path rootPath \u003d Paths.get(root);"
       },
       {
         "lineNumber": 42,
         "author": {
           "gitId": "eugenepeh"
         },
-        "content": "        return runCommand(rootPath, revListCommand);"
+        "content": "        String revListCommand \u003d \"git rev-list -1 --before\u003d\""
       },
       {
         "lineNumber": 43,
         "author": {
           "gitId": "eugenepeh"
         },
-        "content": "    }"
+        "content": "                + GitUtil.GIT_LOG_UNTIL_DATE_FORMAT.format(date) + \" \" + branchName + REVISION_PATH_SEPARATOR;"
       },
       {
         "lineNumber": 44,
+        "author": {
+          "gitId": "eugenepeh"
+        },
+        "content": "        return runCommand(rootPath, revListCommand);"
+      },
+      {
+        "lineNumber": 45,
+        "author": {
+          "gitId": "eugenepeh"
+        },
+        "content": "    }"
+      },
+      {
+        "lineNumber": 46,
         "author": {
           "gitId": "eugenepeh"
         },
@@ -31564,7 +31578,7 @@
       }
     ],
     "authorContributionMap": {
-      "eugenepeh": 44
+      "eugenepeh": 46
     }
   },
   {
