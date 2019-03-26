@@ -1,5 +1,5 @@
 {
-  "reportGeneratedTime": "Sat Mar 16 13:48:18 SGT 2019",
+  "reportGeneratedTime": "Tue Mar 26 12:23:15 2019 UTC",
   "repos": [
     {
       "location": {
@@ -29,6 +29,16 @@
       },
       "branch": "dev-release",
       "displayName": "powerpointlabs_powerpointlabs_dev-release",
+      "sinceDate": "2018-12-01"
+    },
+    {
+      "location": {
+        "location": "https://github.com/powerpointlabs/powerpointlabs.git",
+        "repoName": "powerpointlabs",
+        "organization": "powerpointlabs"
+      },
+      "branch": "tooltips-lab",
+      "displayName": "powerpointlabs_powerpointlabs_tooltips-lab",
       "sinceDate": "2018-12-01"
     },
     {
@@ -79,6 +89,116 @@
       },
       "branch": "master",
       "displayName": "TEAMMATES_teammates_master",
+      "sinceDate": "2018-12-01"
+    },
+    {
+      "location": {
+        "location": "https://github.com/checkstyle/checkstyle.git",
+        "repoName": "checkstyle",
+        "organization": "checkstyle"
+      },
+      "branch": "master",
+      "displayName": "checkstyle_checkstyle_master",
+      "sinceDate": "2018-12-01"
+    },
+    {
+      "location": {
+        "location": "https://github.com/lrsjng/kjua.git",
+        "repoName": "kjua",
+        "organization": "lrsjng"
+      },
+      "branch": "master",
+      "displayName": "lrsjng_kjua_master",
+      "sinceDate": "2018-12-01"
+    },
+    {
+      "location": {
+        "location": "https://github.com/rugk/offline-qr-code.git",
+        "repoName": "offline-qr-code",
+        "organization": "rugk"
+      },
+      "branch": "master",
+      "displayName": "rugk_offline-qr-code_master",
+      "sinceDate": "2018-12-01"
+    },
+    {
+      "location": {
+        "location": "https://github.com/JabRef/jabref.git",
+        "repoName": "jabref",
+        "organization": "JabRef"
+      },
+      "branch": "master",
+      "displayName": "JabRef_jabref_master",
+      "sinceDate": "2018-12-01"
+    },
+    {
+      "location": {
+        "location": "https://github.com/mtgred/netrunner.git",
+        "repoName": "netrunner",
+        "organization": "mtgred"
+      },
+      "branch": "master",
+      "displayName": "mtgred_netrunner_master",
+      "sinceDate": "2018-12-01"
+    },
+    {
+      "location": {
+        "location": "https://github.com/fossasia/chat.susi.ai.git",
+        "repoName": "chat.susi.ai",
+        "organization": "fossasia"
+      },
+      "branch": "master",
+      "displayName": "fossasia_chat.susi.ai_master",
+      "sinceDate": "2018-12-01"
+    },
+    {
+      "location": {
+        "location": "https://github.com/nusmodifications/nusmods.git",
+        "repoName": "nusmods",
+        "organization": "nusmodifications"
+      },
+      "branch": "master",
+      "displayName": "nusmodifications_nusmods_master",
+      "sinceDate": "2018-12-01"
+    },
+    {
+      "location": {
+        "location": "https://github.com/serverless/serverless.git",
+        "repoName": "serverless",
+        "organization": "serverless"
+      },
+      "branch": "master",
+      "displayName": "serverless_serverless_master",
+      "sinceDate": "2018-12-01"
+    },
+    {
+      "location": {
+        "location": "https://github.com/facebook/Docusaurus.git",
+        "repoName": "Docusaurus",
+        "organization": "facebook"
+      },
+      "branch": "master",
+      "displayName": "facebook_Docusaurus_master",
+      "sinceDate": "2018-12-01"
+    },
+    {
+      "location": {
+        "location": "https://github.com/commons-app/apps-android-commons.git",
+        "repoName": "apps-android-commons",
+        "organization": "commons-app"
+      },
+      "branch": "master",
+      "displayName": "commons-app_apps-android-commons_master",
+      "sinceDate": "2018-12-01"
+    },
+    {
+      "location": {
+        "location": "https://github.com/exercism/java.git",
+        "repoName": "java",
+        "organization": "exercism"
+      },
+      "branch": "master",
+      "displayName": "exercism_java_master",
       "sinceDate": "2018-12-01"
     }
   ]

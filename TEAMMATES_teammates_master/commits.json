@@ -678,6 +678,66 @@
         "deletions": 0,
         "date": "2019-03-16",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-17",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-18",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-19",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-20",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-21",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-22",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-23",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-24",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-25",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-26",
+        "commitResults": []
       }
     ],
     "monmanuela": [
@@ -1398,6 +1458,80 @@
         "deletions": 0,
         "date": "2019-03-16",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-17",
+        "commitResults": []
+      },
+      {
+        "insertions": 243,
+        "deletions": 13,
+        "date": "2019-03-18",
+        "commitResults": [
+          {
+            "hash": "b738b06a06415013f0b2f5c09e6e35c13010397d",
+            "message": "[#9480] Add instructor home page snapshot tests (#9553)",
+            "insertions": 243,
+            "deletions": 13
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-19",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-20",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-21",
+        "commitResults": []
+      },
+      {
+        "insertions": 93,
+        "deletions": 17,
+        "date": "2019-03-22",
+        "commitResults": [
+          {
+            "hash": "9c97b9c3a753551177841a35cf8d43ad54ea7902",
+            "message": "[#9480] Add instructor course details page snapshot tests (#9577)",
+            "insertions": 93,
+            "deletions": 17
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-23",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-24",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-25",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-26",
+        "commitResults": []
       }
     ],
     "rrtheonlyone": [
@@ -2092,6 +2226,66 @@
             "deletions": 221
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-17",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-18",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-19",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-20",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-21",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-22",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-23",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-24",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-25",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-26",
+        "commitResults": []
       }
     ],
     "RonakLakhotia": [
@@ -2784,6 +2978,73 @@
         "deletions": 0,
         "date": "2019-03-16",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-17",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-18",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-19",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-20",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-21",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-22",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-23",
+        "commitResults": []
+      },
+      {
+        "insertions": 5,
+        "deletions": 2,
+        "date": "2019-03-24",
+        "commitResults": [
+          {
+            "hash": "364dbc416984e27eabf5f209edfa7a0d4dc483dc",
+            "message": "[#9467] Fix bug for isNotSure option in Contribution question (#9596)",
+            "insertions": 5,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-25",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-26",
+        "commitResults": []
       }
     ],
     "junming403": [
@@ -3445,10 +3706,84 @@
         "commitResults": []
       },
       {
+        "insertions": 620,
+        "deletions": 65,
+        "date": "2019-03-16",
+        "commitResults": [
+          {
+            "hash": "7cced41c5920683330d35accdad24994cbde0781",
+            "message": "[#9494] Consolidate Instructor privilege RESTFul API (#9506)",
+            "insertions": 620,
+            "deletions": 65
+          }
+        ]
+      },
+      {
         "insertions": 0,
         "deletions": 0,
-        "date": "2019-03-16",
+        "date": "2019-03-17",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-18",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-19",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-20",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-21",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-22",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-23",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-24",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-25",
+        "commitResults": []
+      },
+      {
+        "insertions": 16,
+        "deletions": 141,
+        "date": "2019-03-26",
+        "commitResults": [
+          {
+            "hash": "8a29bb625dbfbe91c5d0ef4e766d891e93c3b1a4",
+            "message": "[#9595] Migrate DELETE /bin/course to RESTFul API",
+            "insertions": 16,
+            "deletions": 141
+          }
+        ]
       }
     ],
     "AyushChatto": [
@@ -4121,6 +4456,80 @@
         "insertions": 0,
         "deletions": 0,
         "date": "2019-03-16",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-17",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-18",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-19",
+        "commitResults": []
+      },
+      {
+        "insertions": 69,
+        "deletions": 1,
+        "date": "2019-03-20",
+        "commitResults": [
+          {
+            "hash": "342bb7c872d3da735f8f20e6ae596dee058a0d95",
+            "message": "[#9480] Add Snapshot tests for Student profile page (#9571)",
+            "insertions": 69,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-21",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-22",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-23",
+        "commitResults": []
+      },
+      {
+        "insertions": 54,
+        "deletions": 0,
+        "date": "2019-03-24",
+        "commitResults": [
+          {
+            "hash": "ab11b315276738549c92beafdc54a586b813232b",
+            "message": "[#9480] Add student course details snapshot tests (#9586)",
+            "insertions": 54,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-25",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-26",
         "commitResults": []
       }
     ],
@@ -4822,6 +5231,66 @@
         "deletions": 0,
         "date": "2019-03-16",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-17",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-18",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-19",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-20",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-21",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-22",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-23",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-24",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-25",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-26",
+        "commitResults": []
       }
     ],
     "ChooJeremy": [
@@ -5509,6 +5978,73 @@
             "deletions": 270
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-17",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-18",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-19",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-20",
+        "commitResults": []
+      },
+      {
+        "insertions": 149,
+        "deletions": 41,
+        "date": "2019-03-21",
+        "commitResults": [
+          {
+            "hash": "dad85f36b2ad34a1527d638916af5758677769c5",
+            "message": "[#9494] Consolidate GET course RESTFul API (#9512)",
+            "insertions": 149,
+            "deletions": 41
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-22",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-23",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-24",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-25",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-26",
+        "commitResults": []
       }
     ],
     "Adoby7": [
@@ -6216,6 +6752,66 @@
         "deletions": 0,
         "date": "2019-03-16",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-17",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-18",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-19",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-20",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-21",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-22",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-23",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-24",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-25",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-26",
+        "commitResults": []
       }
     ],
     "jacoblipech": [
@@ -6903,24 +7499,98 @@
         "deletions": 0,
         "date": "2019-03-16",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-17",
+        "commitResults": []
+      },
+      {
+        "insertions": 345,
+        "deletions": 3522,
+        "date": "2019-03-18",
+        "commitResults": [
+          {
+            "hash": "9542ad8a72ff20e4899691c8a2a84638d2aad989",
+            "message": "[#9536] Student profile page e2e test migration (#9569)",
+            "insertions": 345,
+            "deletions": 3522
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-19",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-20",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-21",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-22",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-23",
+        "commitResults": []
+      },
+      {
+        "insertions": 88,
+        "deletions": 510,
+        "date": "2019-03-24",
+        "commitResults": [
+          {
+            "hash": "a1c211858ec1211de7e6bddef26343daee567e4a",
+            "message": "[#9536] Student course details page e2e test migration (#9579)",
+            "insertions": 88,
+            "deletions": 510
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-25",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-26",
+        "commitResults": []
       }
     ]
   },
   "authorFinalContributionMap": {
-    "amrut-prabhu": 1594,
-    "monmanuela": 1873,
+    "amrut-prabhu": 1406,
+    "monmanuela": 2192,
     "rrtheonlyone": 1848,
-    "RonakLakhotia": 798,
-    "junming403": 1459,
-    "AyushChatto": 824,
-    "tanhengyeow": 3778,
-    "ChooJeremy": 1782,
-    "Adoby7": 1151,
-    "jacoblipech": 6942
+    "RonakLakhotia": 762,
+    "junming403": 2077,
+    "AyushChatto": 947,
+    "tanhengyeow": 3750,
+    "ChooJeremy": 1886,
+    "Adoby7": 1077,
+    "jacoblipech": 7313
   },
   "authorFileFormatContributionMap": {
     "amrut-prabhu": {
-      "java": 1311,
+      "java": 1123,
       "js": 0,
       "scss": 9,
       "md": 14,
@@ -6932,12 +7602,12 @@
     "monmanuela": {
       "java": 69,
       "js": 16,
-      "scss": 26,
+      "scss": 31,
       "md": 0,
       "py": 0,
       "tag": 0,
-      "html": 1353,
-      "ts": 409
+      "html": 1365,
+      "ts": 711
     },
     "rrtheonlyone": {
       "java": 1324,
@@ -6950,24 +7620,24 @@
       "ts": 236
     },
     "RonakLakhotia": {
-      "java": 423,
+      "java": 386,
       "js": 2,
       "scss": 0,
       "md": 0,
       "py": 0,
       "tag": 0,
-      "html": 40,
+      "html": 41,
       "ts": 333
     },
     "junming403": {
-      "java": 1278,
+      "java": 1849,
       "js": 0,
       "scss": 0,
       "md": 0,
       "py": 0,
       "tag": 0,
       "html": 0,
-      "ts": 181
+      "ts": 228
     },
     "AyushChatto": {
       "java": 30,
@@ -6977,60 +7647,60 @@
       "py": 0,
       "tag": 0,
       "html": 564,
-      "ts": 221
+      "ts": 344
     },
     "tanhengyeow": {
-      "java": 1951,
+      "java": 1929,
       "js": 0,
       "scss": 213,
       "md": 0,
       "py": 0,
       "tag": 0,
-      "html": 624,
-      "ts": 990
+      "html": 619,
+      "ts": 989
     },
     "ChooJeremy": {
-      "java": 1539,
+      "java": 1621,
       "js": 0,
       "scss": 0,
       "md": 0,
       "py": 0,
       "tag": 0,
       "html": 8,
-      "ts": 235
+      "ts": 257
     },
     "Adoby7": {
-      "java": 1116,
+      "java": 1043,
       "js": 0,
       "scss": 0,
       "md": 2,
       "py": 0,
       "tag": 0,
       "html": 0,
-      "ts": 33
+      "ts": 32
     },
     "jacoblipech": {
-      "java": 3111,
+      "java": 3494,
       "js": 76,
       "scss": 45,
       "md": 0,
       "py": 0,
       "tag": 40,
       "html": 2792,
-      "ts": 878
+      "ts": 866
     }
   },
   "authorContributionVariance": {
-    "amrut-prabhu": 65232.12,
-    "monmanuela": 20750.553,
-    "rrtheonlyone": 18749.371,
-    "RonakLakhotia": 3223.7188,
-    "junming403": 32267.602,
-    "AyushChatto": 3456.9885,
-    "tanhengyeow": 95510.03,
-    "ChooJeremy": 31140.072,
-    "Adoby7": 4524.4487,
-    "jacoblipech": 446889.47
+    "amrut-prabhu": 59686.9,
+    "monmanuela": 19537.586,
+    "rrtheonlyone": 17190.184,
+    "RonakLakhotia": 2952.7742,
+    "junming403": 33462.438,
+    "AyushChatto": 3214.2673,
+    "tanhengyeow": 87591.88,
+    "ChooJeremy": 28748.953,
+    "Adoby7": 4154.4336,
+    "jacoblipech": 530975.44
   },
   "authorDisplayNameMap": {
     "amrut-prabhu": "AMRUT",

@@ -105,15 +105,15 @@
         "commitResults": []
       },
       {
-        "insertions": 11,
-        "deletions": 12,
+        "insertions": 8,
+        "deletions": 6,
         "date": "2018-12-17",
         "commitResults": [
           {
             "hash": "4e47605252bba66b5b1c3d0a6b29441e00493baf",
             "message": "Upgrade markdown-it-anchor to 5.0.0",
-            "insertions": 7,
-            "deletions": 10
+            "insertions": 4,
+            "deletions": 4
           },
           {
             "hash": "b7d191c9f810b8687f808ca6b978abe8b06b1dc5",
@@ -309,14 +309,14 @@
         ]
       },
       {
-        "insertions": 57,
+        "insertions": 52,
         "deletions": 0,
         "date": "2019-01-09",
         "commitResults": [
           {
             "hash": "b9ee80d514b8abed98b524c745c1fed4e97d0618",
             "message": "Add inline code syntax highlighting with `code`{.lang} (#557)",
-            "insertions": 57,
+            "insertions": 52,
             "deletions": 0
           }
         ]
@@ -383,14 +383,14 @@
         "commitResults": []
       },
       {
-        "insertions": 35,
+        "insertions": 21,
         "deletions": 4,
         "date": "2019-01-19",
         "commitResults": [
           {
             "hash": "b34ca6cdfa2d0ab3c527dfc91d2e20b84f855fff",
             "message": "Restore old anchor generation behaviour from before v1.15.0 (#578)",
-            "insertions": 35,
+            "insertions": 21,
             "deletions": 4
           }
         ]
@@ -440,15 +440,15 @@
         "commitResults": []
       },
       {
-        "insertions": 111,
-        "deletions": 29,
+        "insertions": 2,
+        "deletions": 2,
         "date": "2019-01-23",
         "commitResults": [
           {
             "hash": "1d745deb0876b98f6d85702382700d10137e9344",
             "message": "Upgrade winston@2.4.4 and winston-daily-rotate-file@3.6.0 (#600)",
-            "insertions": 111,
-            "deletions": 29
+            "insertions": 2,
+            "deletions": 2
           }
         ]
       },
@@ -651,23 +651,30 @@
         "commitResults": []
       },
       {
-        "insertions": 56,
-        "deletions": 35,
+        "insertions": 79,
+        "deletions": 57,
         "date": "2019-02-18",
         "commitResults": [
           {
             "hash": "dc53e764725d57f2bf8c22fad67aa01a5db24d6c",
             "message": "Use a simpler :prefix-name: syntax for icon fonts (#680)",
-            "insertions": 56,
-            "deletions": 35
+            "insertions": 79,
+            "deletions": 57
           }
         ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 3,
+        "deletions": 3,
         "date": "2019-02-19",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "1686253401a4ad6ef75f67dfab0e7adc5c93543e",
+            "message": "Remove stray space from FA icon syntax example (#708)",
+            "insertions": 3,
+            "deletions": 3
+          }
+        ]
       },
       {
         "insertions": 0,
@@ -682,8 +689,8 @@
         "commitResults": []
       },
       {
-        "insertions": 19,
-        "deletions": 2,
+        "insertions": 36,
+        "deletions": 19,
         "date": "2019-02-22",
         "commitResults": [
           {
@@ -695,8 +702,8 @@
           {
             "hash": "c67e7f21d73996c903486372f929e95ff35b64f1",
             "message": "docs: Change markbind.github.io to markbind.org (#724)",
-            "insertions": 1,
-            "deletions": 1
+            "insertions": 18,
+            "deletions": 18
           }
         ]
       },
@@ -725,10 +732,17 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
+        "insertions": 7,
         "deletions": 0,
         "date": "2019-02-27",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "e773644ed271eb740abde757239046031b7faca9",
+            "message": "Deploy user docs via Travis on release (#701)",
+            "insertions": 7,
+            "deletions": 0
+          }
+        ]
       },
       {
         "insertions": 0,
@@ -755,14 +769,14 @@
         "commitResults": []
       },
       {
-        "insertions": 6,
+        "insertions": 1,
         "deletions": 0,
         "date": "2019-03-04",
         "commitResults": [
           {
             "hash": "ea1aa1bb1ad73b6978b2d50583bdebf16e221854",
             "message": "Add fontawesome-free@5.72",
-            "insertions": 6,
+            "insertions": 1,
             "deletions": 0
           }
         ]
@@ -842,15 +856,15 @@
         "commitResults": []
       },
       {
-        "insertions": 2,
-        "deletions": 2,
+        "insertions": 5,
+        "deletions": 5,
         "date": "2019-03-11",
         "commitResults": [
           {
             "hash": "d6899fdaec5963005c21cdf2ab40f1ef2b6302b6",
             "message": "Replace \u003cfont\u003e in user docs with \u003cspan style\u003e (#696)",
-            "insertions": 2,
-            "deletions": 2
+            "insertions": 5,
+            "deletions": 5
           }
         ]
       },
@@ -876,6 +890,87 @@
             "message": "Add \u003cmeta name\u003d\"generator\"\u003e tags to generated HTML (#757)",
             "insertions": 3,
             "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-15",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-16",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-17",
+        "commitResults": []
+      },
+      {
+        "insertions": 36,
+        "deletions": 1,
+        "date": "2019-03-18",
+        "commitResults": [
+          {
+            "hash": "fd21ae66d2d4c6c085ddaecc2a590e55dbf33b9a",
+            "message": "Fix incorrect regex for matching icon syntax (#765)",
+            "insertions": 36,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-19",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-20",
+        "commitResults": []
+      },
+      {
+        "insertions": 7,
+        "deletions": 6,
+        "date": "2019-03-21",
+        "commitResults": [
+          {
+            "hash": "32fdeaf3b593e61c02945df769bafe73336231dd",
+            "message": "Disable new ESLint rules to comply with existing styles",
+            "insertions": 2,
+            "deletions": 0
+          },
+          {
+            "hash": "767f1b0c20b4e9603a55abdfa316c6ec9e4a3296",
+            "message": "Fix import order to match ESLint sort-import",
+            "insertions": 5,
+            "deletions": 6
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-22",
+        "commitResults": []
+      },
+      {
+        "insertions": 12,
+        "deletions": 12,
+        "date": "2019-03-23",
+        "commitResults": [
+          {
+            "hash": "3481c6964e97d0eccf361fe7a6779f8976aae902",
+            "message": "Upgrade vulnerable deps reported by npm audit",
+            "insertions": 12,
+            "deletions": 12
           }
         ]
       }
@@ -1497,14 +1592,14 @@
         "commitResults": []
       },
       {
-        "insertions": 34,
+        "insertions": 79,
         "deletions": 2,
         "date": "2019-03-03",
         "commitResults": [
           {
             "hash": "513031ae6469c75e4dc8010fce125e39f0777946",
             "message": "Add Algolia plugin (#718)",
-            "insertions": 34,
+            "insertions": 79,
             "deletions": 2
           }
         ]
@@ -1522,10 +1617,17 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 1,
+        "deletions": 1,
         "date": "2019-03-06",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "c4697dc3e36bfadf78c7bc032b27e2900cf82ae2",
+            "message": "docs: add missing searchbar closing tag in Algolia plugin example (#750)",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
       },
       {
         "insertions": 0,
@@ -1574,6 +1676,86 @@
         "deletions": 0,
         "date": "2019-03-14",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-15",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-16",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-17",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-18",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-19",
+        "commitResults": []
+      },
+      {
+        "insertions": 135,
+        "deletions": 10,
+        "date": "2019-03-20",
+        "commitResults": [
+          {
+            "hash": "6811230790fa424aca20880770f925a2b60d2296",
+            "message": "Fix trim not working when including fragments (#766)",
+            "insertions": 103,
+            "deletions": 5
+          },
+          {
+            "hash": "a159a7812b81d393d03484c3a5e4558c4d9b9b16",
+            "message": "Update heading selector to support always-index and no-index (#768)",
+            "insertions": 32,
+            "deletions": 5
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-21",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-22",
+        "commitResults": []
+      },
+      {
+        "insertions": 293,
+        "deletions": 234,
+        "date": "2019-03-23",
+        "commitResults": [
+          {
+            "hash": "b7acb79c462291aead5fb859b0f2b5e90ae0e859",
+            "message": "Fix dropdown anti-FOUC styles (#760)",
+            "insertions": 120,
+            "deletions": 59
+          },
+          {
+            "hash": "38d2ecf2283c354fc4ab2eea088737362a30609c",
+            "message": "Fix indentation in sample code for popovers and tooltips (#787)",
+            "insertions": 173,
+            "deletions": 175
+          }
+        ]
       }
     ],
     "sijie123": [
@@ -2137,15 +2319,15 @@
         "commitResults": []
       },
       {
-        "insertions": 46,
-        "deletions": 46,
+        "insertions": 81,
+        "deletions": 49,
         "date": "2019-03-02",
         "commitResults": [
           {
             "hash": "8482de033b8bcbc4926f32c6bd40400d5ed505a0",
             "message": "Documentation: Remove unnecessary {{baseUrl}}",
-            "insertions": 46,
-            "deletions": 46
+            "insertions": 81,
+            "deletions": 49
           }
         ]
       },
@@ -2226,6 +2408,67 @@
         "insertions": 0,
         "deletions": 0,
         "date": "2019-03-14",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-15",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-16",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-17",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-18",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-19",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-20",
+        "commitResults": []
+      },
+      {
+        "insertions": 6,
+        "deletions": 3,
+        "date": "2019-03-21",
+        "commitResults": [
+          {
+            "hash": "93035e1a22c30b724f582b39b210571f71b4f89c",
+            "message": "Parser: Fix crash if no href given to anchor or link tag (#780)",
+            "insertions": 6,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-22",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-23",
         "commitResults": []
       }
     ],
@@ -2877,21 +3120,89 @@
         "commitResults": []
       },
       {
-        "insertions": 280,
-        "deletions": 617,
+        "insertions": 1,
+        "deletions": 1,
         "date": "2019-03-14",
         "commitResults": [
-          {
-            "hash": "33a9ab001b33b1c762d39ace776adf1014ae47c1",
-            "message": "Run `npm install` with npm 5.8.0 (#767)",
-            "insertions": 279,
-            "deletions": 616
-          },
           {
             "hash": "cfbffbadb4071e297d72c0208b2710b2ff3ad961",
             "message": "docs/variables.md: fix font-awesome typo (#769)",
             "insertions": 1,
             "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-15",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-16",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-17",
+        "commitResults": []
+      },
+      {
+        "insertions": 651,
+        "deletions": 653,
+        "date": "2019-03-18",
+        "commitResults": [
+          {
+            "hash": "a240f6b0d7be42dca329887965b32a15528a49f6",
+            "message": "test: fix permissions for test/functional/test.sh (#774)",
+            "insertions": 0,
+            "deletions": 2
+          },
+          {
+            "hash": "f6051653ee32a2a480545e6f559be87f67fbea86",
+            "message": "Convert CRLF to LF in text files",
+            "insertions": 651,
+            "deletions": 651
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-19",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-20",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-21",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-22",
+        "commitResults": []
+      },
+      {
+        "insertions": 117,
+        "deletions": 2,
+        "date": "2019-03-23",
+        "commitResults": [
+          {
+            "hash": "c330dc98491ae17da1db3b9074703b08eb7924c7",
+            "message": "Add built-in support for light themes from bootswatch (#745)",
+            "insertions": 117,
+            "deletions": 2
           }
         ]
       }
@@ -3576,48 +3887,118 @@
         "deletions": 0,
         "date": "2019-03-14",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-15",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-16",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-17",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-18",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-19",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-20",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-21",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-22",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-23",
+        "commitResults": []
       }
     ]
   },
   "authorFinalContributionMap": {
-    "Xenonym": 1086,
-    "marvinchin": 343,
-    "sijie123": 230,
-    "luyangkenneth": 302,
+    "Xenonym": 1076,
+    "marvinchin": 642,
+    "sijie123": 268,
+    "luyangkenneth": 149,
     "amad-person": 39
   },
   "authorFileFormatContributionMap": {
     "Xenonym": {
       "java": 0,
-      "js": 726,
-      "css": 90,
-      "json": 184,
-      "md": 86,
-      "py": 0
+      "js": 767,
+      "css": 89,
+      "json": 85,
+      "md": 90,
+      "mbd": 0,
+      "mbdf": 38,
+      "njk": 0,
+      "py": 0,
+      "yml": 7
     },
     "marvinchin": {
       "java": 0,
-      "js": 234,
-      "css": 57,
-      "json": 0,
-      "md": 52,
-      "py": 0
+      "js": 345,
+      "css": 56,
+      "json": 19,
+      "md": 102,
+      "mbd": 0,
+      "mbdf": 120,
+      "njk": 0,
+      "py": 0,
+      "yml": 0
     },
     "sijie123": {
       "java": 0,
       "js": 157,
       "css": 0,
       "json": 0,
-      "md": 73,
-      "py": 0
+      "md": 76,
+      "mbd": 0,
+      "mbdf": 35,
+      "njk": 0,
+      "py": 0,
+      "yml": 0
     },
     "luyangkenneth": {
       "java": 0,
-      "js": 9,
-      "css": 14,
-      "json": 268,
-      "md": 11,
-      "py": 0
+      "js": 52,
+      "css": 16,
+      "json": 1,
+      "md": 80,
+      "mbd": 0,
+      "mbdf": 0,
+      "njk": 0,
+      "py": 0,
+      "yml": 0
     },
     "amad-person": {
       "java": 0,
@@ -3625,15 +4006,19 @@
       "css": 0,
       "json": 3,
       "md": 6,
-      "py": 0
+      "mbd": 0,
+      "mbdf": 0,
+      "njk": 0,
+      "py": 0,
+      "yml": 0
     }
   },
   "authorContributionVariance": {
-    "Xenonym": 1569.6414,
-    "marvinchin": 450.84018,
-    "sijie123": 431.97165,
-    "luyangkenneth": 7667.0723,
-    "amad-person": 62.470066
+    "Xenonym": 1403.2378,
+    "marvinchin": 3005.0264,
+    "sijie123": 471.21112,
+    "luyangkenneth": 15014.152,
+    "amad-person": 57.62349
   },
   "authorDisplayNameMap": {
     "Xenonym": "ZHEN YONG",
