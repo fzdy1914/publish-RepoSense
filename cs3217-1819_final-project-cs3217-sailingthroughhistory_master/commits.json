@@ -1,0 +1,3889 @@
+{
+  "authorDailyContributionsMap": {
+    "Yang Shuqi": [
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-15",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-16",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-17",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-18",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-19",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-20",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-21",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-22",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-23",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-24",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-25",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-26",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-27",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-28",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-01",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-02",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-03",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-04",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-05",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-06",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-07",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-08",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-09",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-10",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-11",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-13",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-14",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-15",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-16",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-17",
+        "commitResults": []
+      },
+      {
+        "insertions": 218,
+        "deletions": 0,
+        "date": "2019-03-18",
+        "commitResults": [
+          {
+            "hash": "af7425d5347b932b340542f01b5ede808cf6956c",
+            "message": "add level editor",
+            "insertions": 218,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 297,
+        "deletions": 104,
+        "date": "2019-03-19",
+        "commitResults": [
+          {
+            "hash": "4f0039b79664e6274f21245329657c985608476b",
+            "message": "use gameObject icon",
+            "insertions": 64,
+            "deletions": 30
+          },
+          {
+            "hash": "e4f0bd3f0c5278641a6679f9998a5faec8ba68d1",
+            "message": "enable add map",
+            "insertions": 38,
+            "deletions": 13
+          },
+          {
+            "hash": "cbe40f2104a75aba2c443fd302662b6b7709aa98",
+            "message": "add map class",
+            "insertions": 195,
+            "deletions": 61
+          }
+        ]
+      },
+      {
+        "insertions": 370,
+        "deletions": 59,
+        "date": "2019-03-20",
+        "commitResults": [
+          {
+            "hash": "127415a4aeb137b4d5a747fe63a57275a633ea06",
+            "message": "add edit item/parameter",
+            "insertions": 370,
+            "deletions": 59
+          }
+        ]
+      },
+      {
+        "insertions": 332,
+        "deletions": 228,
+        "date": "2019-03-21",
+        "commitResults": [
+          {
+            "hash": "aad62fa721ecd2e3953d4d14d0ae1096f5c9bb1f",
+            "message": "change edit item screen",
+            "insertions": 76,
+            "deletions": 100
+          },
+          {
+            "hash": "5cb777eb2703c1814656a41af28087e1bd67a62b",
+            "message": "disable text input except for int",
+            "insertions": 130,
+            "deletions": 49
+          },
+          {
+            "hash": "d3f4d4bc1f937359db2eee40f9947afbffdecd60",
+            "message": "enable editItem with update",
+            "insertions": 62,
+            "deletions": 63
+          },
+          {
+            "hash": "5b9aea813d124ff32bd1aaf1dad42dc62a8ec0d0",
+            "message": "remove UIImageView in GameObject",
+            "insertions": 64,
+            "deletions": 16
+          }
+        ]
+      },
+      {
+        "insertions": 671,
+        "deletions": 167,
+        "date": "2019-03-22",
+        "commitResults": [
+          {
+            "hash": "9a7cedbbc9fe73d8dcb418c7c4c08500349980be",
+            "message": "implement Codable",
+            "insertions": 370,
+            "deletions": 93
+          },
+          {
+            "hash": "078b603f081de17b7735534a05a4946f6bbc164d",
+            "message": "minor changes",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "b20d42d173549dd8f7f0ddab3b904da061af871b",
+            "message": "enable storage path/nodes",
+            "insertions": 209,
+            "deletions": 28
+          },
+          {
+            "hash": "e1b7653e2d25f9f3170a62967d15ffa1bce7ab9e",
+            "message": "enable item parameter storage",
+            "insertions": 72,
+            "deletions": 37
+          },
+          {
+            "hash": "2e25988e9123bb01bfeb6db313acc19d7b9a594c",
+            "message": "enable image storage",
+            "insertions": 6,
+            "deletions": 8
+          },
+          {
+            "hash": "4cb874e23fd95c8543f1723a7e63aa6b993eebee",
+            "message": "add header view for item collection view",
+            "insertions": 13,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-23",
+        "commitResults": []
+      },
+      {
+        "insertions": 323,
+        "deletions": 79,
+        "date": "2019-03-24",
+        "commitResults": [
+          {
+            "hash": "ce6147700b57619c2b349bcce3822067d21178b6",
+            "message": "fix scrollView",
+            "insertions": 51,
+            "deletions": 33
+          },
+          {
+            "hash": "5ce9ae3b6e52f6658de3173bc495cf644ce5226a",
+            "message": "enable player parameter editing",
+            "insertions": 106,
+            "deletions": 28
+          },
+          {
+            "hash": "1286486c6ef6cb45ff9c129ab52efc83dd43d977",
+            "message": "add double tap gesture",
+            "insertions": 158,
+            "deletions": 11
+          },
+          {
+            "hash": "969f75fa223fd59073c5a4211c5eaa8a0c8f9b98",
+            "message": "minor changes",
+            "insertions": 8,
+            "deletions": 7
+          }
+        ]
+      },
+      {
+        "insertions": 103,
+        "deletions": 51,
+        "date": "2019-03-25",
+        "commitResults": [
+          {
+            "hash": "93dbb7d5f97d0d8610b947a348947e6d3cac2db8",
+            "message": "fix storage",
+            "insertions": 24,
+            "deletions": 13
+          },
+          {
+            "hash": "7c9c420a2017531cec2e27d10726e41409475f6b",
+            "message": "fix item table",
+            "insertions": 15,
+            "deletions": 8
+          },
+          {
+            "hash": "e912f5b72164367c7273bf422eff0449b8e63d5c",
+            "message": "enable assign port",
+            "insertions": 25,
+            "deletions": 10
+          },
+          {
+            "hash": "c6fd6daeadf5c39abfff71d2b095089cf90b07f0",
+            "message": "Set menu behavior",
+            "insertions": 19,
+            "deletions": 8
+          },
+          {
+            "hash": "abe9fb30424964bc1e671744fab4b06fc04f5fdc",
+            "message": "enable",
+            "insertions": 20,
+            "deletions": 12
+          }
+        ]
+      },
+      {
+        "insertions": 255,
+        "deletions": 61,
+        "date": "2019-03-26",
+        "commitResults": [
+          {
+            "hash": "11616c46d26389e7bfa7ee1cd4c2fe6ec38fea86",
+            "message": "add game turn UI",
+            "insertions": 170,
+            "deletions": 47
+          },
+          {
+            "hash": "292456b2c40a712299a8aebef6da2213fd715c38",
+            "message": "Enable item half life",
+            "insertions": 85,
+            "deletions": 14
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-27",
+        "commitResults": []
+      },
+      {
+        "insertions": 82,
+        "deletions": 57,
+        "date": "2019-03-28",
+        "commitResults": [
+          {
+            "hash": "a42d66d9bc14079c5808493f8c0c1d4bce8a2806",
+            "message": "Seperate Node and GameObject",
+            "insertions": 82,
+            "deletions": 57
+          }
+        ]
+      },
+      {
+        "insertions": 514,
+        "deletions": 278,
+        "date": "2019-03-29",
+        "commitResults": [
+          {
+            "hash": "9380e7139f614f9ccb3c05b568b9aa01a5248311",
+            "message": "add team",
+            "insertions": 183,
+            "deletions": 90
+          },
+          {
+            "hash": "1c330fc34febab469028800e792c631fcd08b191",
+            "message": "add team",
+            "insertions": 183,
+            "deletions": 90
+          },
+          {
+            "hash": "f5f6e730c18cd461e0bf574d11b197feb46bb401",
+            "message": "minor changes",
+            "insertions": 73,
+            "deletions": 48
+          },
+          {
+            "hash": "0d1f0b2c3c1246f4b8e520b6747781ed35b1d9e2",
+            "message": "minor changes",
+            "insertions": 73,
+            "deletions": 48
+          },
+          {
+            "hash": "bdbc7d8aabaee758d22aed726034b6cb05cc01d0",
+            "message": "minor changes",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "bfb66b3374d7d7dfa996d6310c806c8f1bf195d7",
+            "message": "minor changes",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 1,
+        "deletions": 1,
+        "date": "2019-03-30",
+        "commitResults": [
+          {
+            "hash": "30ef11c41d683d3fd418f422e28c2c9afc4d5260",
+            "message": "fix bugs",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 55,
+        "deletions": 15,
+        "date": "2019-03-31",
+        "commitResults": [
+          {
+            "hash": "c6fec797b2ba0c70f9e927ab72f13d2f8c5a7b9c",
+            "message": "add bounds to map",
+            "insertions": 55,
+            "deletions": 15
+          }
+        ]
+      },
+      {
+        "insertions": 372,
+        "deletions": 40,
+        "date": "2019-04-01",
+        "commitResults": [
+          {
+            "hash": "24a340d3675880e75adfa5314a039c003deeb458",
+            "message": "fix bug",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "8558f0cd056e2a054f7e4ca9a4493342af697c3e",
+            "message": "fix bugs",
+            "insertions": 4,
+            "deletions": 12
+          },
+          {
+            "hash": "9cfdb6639cfde053b1e6cdb1677eb404f0666f7f",
+            "message": "fix remove node UI",
+            "insertions": 56,
+            "deletions": 13
+          },
+          {
+            "hash": "c72b1a40a04088abb4ebd3979bdf132af25ff401",
+            "message": "minor changes",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "bfe8cd6bcfab13bd3dae089780c06ba98944fe1c",
+            "message": "add test",
+            "insertions": 109,
+            "deletions": 6
+          },
+          {
+            "hash": "2e7e2de840867c84b62395b15a81b6c99aa9d20f",
+            "message": "finish gameParameter test",
+            "insertions": 199,
+            "deletions": 6
+          }
+        ]
+      },
+      {
+        "insertions": 234,
+        "deletions": 123,
+        "date": "2019-04-02",
+        "commitResults": [
+          {
+            "hash": "c85a677e7042dcf59ac59a1240bf58d4ca579e8f",
+            "message": "change port owner to Team",
+            "insertions": 22,
+            "deletions": 28
+          },
+          {
+            "hash": "465752c1e471314370f1722a3e0685ee6e16d015",
+            "message": "change Pirate to GameObject",
+            "insertions": 14,
+            "deletions": 21
+          },
+          {
+            "hash": "1094d2442f821e41bb2500194880be295222f026",
+            "message": "change Pirate to GameObject",
+            "insertions": 62,
+            "deletions": 32
+          },
+          {
+            "hash": "2cb1c58af159e8a69fe176813a41f56856174fe1",
+            "message": "change levelEditor adding feature",
+            "insertions": 19,
+            "deletions": 14
+          },
+          {
+            "hash": "ce37c92484330e469a3ea6d7566c825649674f8d",
+            "message": "add identifier to node",
+            "insertions": 7,
+            "deletions": 2
+          },
+          {
+            "hash": "0333ce01c126918fe9ce07fd0bde1e0bd408deec",
+            "message": "fix node storage",
+            "insertions": 53,
+            "deletions": 19
+          },
+          {
+            "hash": "7d980beb517aaa8015410f99dd3491efd7902a70",
+            "message": "remove Team constructor in Port",
+            "insertions": 57,
+            "deletions": 7
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-03",
+        "commitResults": []
+      },
+      {
+        "insertions": 79,
+        "deletions": 63,
+        "date": "2019-04-04",
+        "commitResults": [
+          {
+            "hash": "1f4cfdea50f967ce5964e894b81e71659f557bf1",
+            "message": "fix memory issue",
+            "insertions": 50,
+            "deletions": 32
+          },
+          {
+            "hash": "a67c734f63ee60119361a7dbd2e7ae91db9b29ef",
+            "message": "fix levelEditor screen reload",
+            "insertions": 14,
+            "deletions": 20
+          },
+          {
+            "hash": "9891983e0fe0848a0f05ebb0982da7a25f5ceb8f",
+            "message": "minor changes",
+            "insertions": 5,
+            "deletions": 3
+          },
+          {
+            "hash": "7b9cb5c800ce5dbb781ac99ddef7e25b6b27e46b",
+            "message": "minor changes",
+            "insertions": 3,
+            "deletions": 4
+          },
+          {
+            "hash": "6dafc0d00b47a35175a80bbd6cb3bc226a94f446",
+            "message": "fix bugs",
+            "insertions": 6,
+            "deletions": 4
+          },
+          {
+            "hash": "d955acb81cfe8ee50a1d8ea55e922e97ac8c4a18",
+            "message": "minor change",
+            "insertions": 1,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-05",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-06",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-07",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-08",
+        "commitResults": []
+      },
+      {
+        "insertions": 253,
+        "deletions": 96,
+        "date": "2019-04-09",
+        "commitResults": [
+          {
+            "hash": "24b0ac25b94c824e7fcd49bc9297ef8666497618",
+            "message": "add level name verification",
+            "insertions": 90,
+            "deletions": 40
+          },
+          {
+            "hash": "4d8c8e28f22789ccc6255cb06393c43d1b848c9f",
+            "message": "fix gallery broken data reload",
+            "insertions": 5,
+            "deletions": 0
+          },
+          {
+            "hash": "4f2468e8fb24fab731f6d0cf2e84f757e166e835",
+            "message": "minor changes",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "971f583990f82fc3b7d7d5741538a7cf8f7fd1a8",
+            "message": "enable weather editing",
+            "insertions": 125,
+            "deletions": 46
+          },
+          {
+            "hash": "777072cf3bf7ab13c55c9a44fcb93b7bf436a1a5",
+            "message": "allow remove path",
+            "insertions": 32,
+            "deletions": 9
+          }
+        ]
+      },
+      {
+        "insertions": 157,
+        "deletions": 66,
+        "date": "2019-04-10",
+        "commitResults": [
+          {
+            "hash": "6e0e04591119a0ce1bb7b8b0f6ed6128061dad05",
+            "message": "hard code 2 players each room",
+            "insertions": 18,
+            "deletions": 12
+          },
+          {
+            "hash": "b1610e4d088a0ac0f64318e503c1e1149263b055",
+            "message": "add join player button",
+            "insertions": 139,
+            "deletions": 54
+          }
+        ]
+      },
+      {
+        "insertions": 182,
+        "deletions": 121,
+        "date": "2019-04-11",
+        "commitResults": [
+          {
+            "hash": "3d988982205b754325dbd0c031c1336da9ec8e54",
+            "message": "add device doc",
+            "insertions": 125,
+            "deletions": 64
+          },
+          {
+            "hash": "0dc4d524f92700011973696d4c02aec9e0ad1243",
+            "message": "minor changes",
+            "insertions": 21,
+            "deletions": 28
+          },
+          {
+            "hash": "4d08773db107afc88fda534481154f0fb200603a",
+            "message": "remove removeCallback",
+            "insertions": 9,
+            "deletions": 14
+          },
+          {
+            "hash": "4884f1e662fa06ca08992d90bc88df2057410ca9",
+            "message": "enable local multi-player",
+            "insertions": 27,
+            "deletions": 15
+          }
+        ]
+      },
+      {
+        "insertions": 198,
+        "deletions": 65,
+        "date": "2019-04-12",
+        "commitResults": [
+          {
+            "hash": "c9abacf638bdcfa004fce896702180e87bd0d1f7",
+            "message": "minor changes",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "557801f16c20d07e1518ba54056573827741f7af",
+            "message": "minor changes",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "1ce6c179d52625e27263ea58ff925218869f627f",
+            "message": "implement add starting node",
+            "insertions": 165,
+            "deletions": 42
+          },
+          {
+            "hash": "3e982043730932362dc20e66cc87b41910f4de6a",
+            "message": "enable staring node during gameplay",
+            "insertions": 30,
+            "deletions": 19
+          }
+        ]
+      },
+      {
+        "insertions": 476,
+        "deletions": 162,
+        "date": "2019-04-13",
+        "commitResults": [
+          {
+            "hash": "e4d226bf34e393cf901ecbb04e19dd82247115ec",
+            "message": "add map test",
+            "insertions": 289,
+            "deletions": 149
+          },
+          {
+            "hash": "a9413508fe4d11d9e1b99919683bf7993ad68565",
+            "message": "add tesm test",
+            "insertions": 93,
+            "deletions": 4
+          },
+          {
+            "hash": "fd61dd1d13794776ae854ca38e4dc2c5dfb432ff",
+            "message": "fix naming bugs",
+            "insertions": 94,
+            "deletions": 9
+          }
+        ]
+      },
+      {
+        "insertions": 126,
+        "deletions": 82,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "04e351999d37235083769433c389e65b2762eccd",
+            "message": "finish gameParameter test",
+            "insertions": 95,
+            "deletions": 15
+          },
+          {
+            "hash": "08054556efb1e52ad6f9eb40fcdd47036a8d1b19",
+            "message": "modify map checkRef",
+            "insertions": 22,
+            "deletions": 0
+          },
+          {
+            "hash": "442fff31e9cd4d45c544cd800ee7f92c2e615d2a",
+            "message": "remove entity tests",
+            "insertions": 9,
+            "deletions": 67
+          }
+        ]
+      },
+      {
+        "insertions": 127,
+        "deletions": 43,
+        "date": "2019-04-15",
+        "commitResults": [
+          {
+            "hash": "07dd28a34d9c4667b7ac6de0898a1edc8d73fcdf",
+            "message": "add back button",
+            "insertions": 16,
+            "deletions": 11
+          },
+          {
+            "hash": "cdeff9e01e06c2d72581572aaf0c3a39b15af7a7",
+            "message": "add comments for storage",
+            "insertions": 55,
+            "deletions": 17
+          },
+          {
+            "hash": "c86a2c9fe23ce0e2a6cc22941c0db34154da45fb",
+            "message": "reorganize localstorage",
+            "insertions": 13,
+            "deletions": 11
+          },
+          {
+            "hash": "ffcd76c9bea762b88e8c78f818512ddce8d89dfa",
+            "message": "add callback for joinroom",
+            "insertions": 8,
+            "deletions": 3
+          },
+          {
+            "hash": "53972b2661f9bfb7cfe4f5c58b7808053cfe3fb2",
+            "message": "fix bugs",
+            "insertions": 35,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 6,
+        "deletions": 8,
+        "date": "2019-04-16",
+        "commitResults": [
+          {
+            "hash": "38af12a5f0d4cba9f4f449146934afd03b8fdfa6",
+            "message": "fix bugs",
+            "insertions": 6,
+            "deletions": 8
+          }
+        ]
+      }
+    ],
+    "henry": [
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-15",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-16",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-17",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-18",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-19",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-20",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-21",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-22",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-23",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-24",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-25",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-26",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-27",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-28",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-01",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-02",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-03",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-04",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-05",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-06",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-07",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-08",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-09",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-10",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-11",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-13",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-14",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-15",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-16",
+        "commitResults": []
+      },
+      {
+        "insertions": 203,
+        "deletions": 3,
+        "date": "2019-03-17",
+        "commitResults": [
+          {
+            "hash": "6ded4668e9d3c53814e9f7bdb671687d69d2d329",
+            "message": "Add skeleton for game state.",
+            "insertions": 203,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 551,
+        "deletions": 136,
+        "date": "2019-03-18",
+        "commitResults": [
+          {
+            "hash": "c7d4408b6619260ee1e025fdcde4e533e5966c82",
+            "message": "Add more skeleton code to game state.",
+            "insertions": 93,
+            "deletions": 13
+          },
+          {
+            "hash": "3f854e3c1c7ba2e8ee0550daf1de06e0612764a3",
+            "message": "Add various functionality to Player and GameState.",
+            "insertions": 167,
+            "deletions": 19
+          },
+          {
+            "hash": "3957fc68bd827f1619c67389296c116e47697344",
+            "message": "Remove direct referencing of RxSwift in various files.",
+            "insertions": 6,
+            "deletions": 9
+          },
+          {
+            "hash": "bb8fd4df9148843eee3b5db1ea64bfc0c720073b",
+            "message": "Fix bug.",
+            "insertions": 15,
+            "deletions": 15
+          },
+          {
+            "hash": "578441d7ef07f77b713240144173cb37ecd3e76e",
+            "message": "Add taxes to ports, add comments and fields to ItemType protocol.",
+            "insertions": 47,
+            "deletions": 10
+          },
+          {
+            "hash": "626518125ca7487fac922c9c9491cdda8d65bb72",
+            "message": "Convert multiple protocols to class.",
+            "insertions": 97,
+            "deletions": 30
+          },
+          {
+            "hash": "e569acb40a4a5f9fd5cd05434da20919114d096c",
+            "message": "Fix GenericPlayer\u0027s Self issue, add back protocols for items.",
+            "insertions": 120,
+            "deletions": 34
+          },
+          {
+            "hash": "70ddc0972e43d092d300ab775e503da7795ffae6",
+            "message": "Force classes to use generic APIs.",
+            "insertions": 6,
+            "deletions": 6
+          }
+        ]
+      },
+      {
+        "insertions": 328,
+        "deletions": 134,
+        "date": "2019-03-19",
+        "commitResults": [
+          {
+            "hash": "bcc7285cd20575d8689d714b48cfd0c79cedd715",
+            "message": "Add basic buy/sell logic.",
+            "insertions": 147,
+            "deletions": 31
+          },
+          {
+            "hash": "0e682f341203e2e5acaaf1dcacf7bc9d754d9d62",
+            "message": "Remove trailing whitespaces.",
+            "insertions": 78,
+            "deletions": 86
+          },
+          {
+            "hash": "6fb96296c2d7ecdd5d278209cf9bbfd19dbf5439",
+            "message": "Add ShipUI GameObject.",
+            "insertions": 32,
+            "deletions": 1
+          },
+          {
+            "hash": "42ace48acda5f67c00d22a599abb89cd8f69ad0a",
+            "message": "Finish start/end turn logic for player/ship.",
+            "insertions": 71,
+            "deletions": 16
+          }
+        ]
+      },
+      {
+        "insertions": 41,
+        "deletions": 46,
+        "date": "2019-03-20",
+        "commitResults": [
+          {
+            "hash": "5c506f24cdbaf7f8802d1707b135723fd604d5bc",
+            "message": "Minor edits after merging.",
+            "insertions": 17,
+            "deletions": 22
+          },
+          {
+            "hash": "09e1b477547979582f7cfbb45d1888627f897de9",
+            "message": "Fix naming issue of ItemParameter.",
+            "insertions": 24,
+            "deletions": 24
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-21",
+        "commitResults": []
+      },
+      {
+        "insertions": 328,
+        "deletions": 189,
+        "date": "2019-03-22",
+        "commitResults": [
+          {
+            "hash": "cbfe6aa620ac907ae5fde8ec52755a315435b581",
+            "message": "Add bigger ship upgrade.",
+            "insertions": 112,
+            "deletions": 10
+          },
+          {
+            "hash": "4232e65946fd02f6ce0b5af4bc29b992724c6fac",
+            "message": "Remove publics and trailing whitespace.",
+            "insertions": 47,
+            "deletions": 47
+          },
+          {
+            "hash": "0632d43171c678a069664de26cdab8f942e9dce1",
+            "message": "Add some error messages.",
+            "insertions": 23,
+            "deletions": 12
+          },
+          {
+            "hash": "e38ed5522d2e7d3f8e428158ce89bb2057131991",
+            "message": "Add subscribable values to player.",
+            "insertions": 70,
+            "deletions": 30
+          },
+          {
+            "hash": "89e6345933735130f4bfac3a03cec884bdba495e",
+            "message": "Fix some code style violations.",
+            "insertions": 24,
+            "deletions": 29
+          },
+          {
+            "hash": "83e5a992e74595949f54843fbcb06c1863999b40",
+            "message": "Add ship UI Update logic.",
+            "insertions": 9,
+            "deletions": 0
+          },
+          {
+            "hash": "a7053ba72220242dbeca8ae3ecdc5d6bd613627d",
+            "message": "Add method to get players, their location and add speedMultiplier effect.",
+            "insertions": 25,
+            "deletions": 12
+          },
+          {
+            "hash": "fe11a2d3db7b1d75a9576ce6a732e2f8916ae32c",
+            "message": "Add notion of GameTime to GameState.",
+            "insertions": 18,
+            "deletions": 49
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-23",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-24",
+        "commitResults": []
+      },
+      {
+        "insertions": 122,
+        "deletions": 41,
+        "date": "2019-03-25",
+        "commitResults": [
+          {
+            "hash": "55a439457a8ea08d497eb1178d67b7e0c40f6571",
+            "message": "Add errors messages to ship.",
+            "insertions": 77,
+            "deletions": 23
+          },
+          {
+            "hash": "29afad90488a08582f67e04ca6c3b25cb5067174",
+            "message": "Finish weather computations.",
+            "insertions": 35,
+            "deletions": 18
+          },
+          {
+            "hash": "a8e9571dfb97b7fd5585b8e5f8aa8e0080d425a9",
+            "message": "Add bankruptcy check on player.",
+            "insertions": 10,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-26",
+        "commitResults": []
+      },
+      {
+        "insertions": 153,
+        "deletions": 36,
+        "date": "2019-03-27",
+        "commitResults": [
+          {
+            "hash": "71fe1f54167df0e6bf5b83db8e99388634093eff",
+            "message": "GameState is now codable.",
+            "insertions": 153,
+            "deletions": 36
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-28",
+        "commitResults": []
+      },
+      {
+        "insertions": 116,
+        "deletions": 48,
+        "date": "2019-03-29",
+        "commitResults": [
+          {
+            "hash": "fe579ec78f73cfc30a86324c076dfac27990c9ee",
+            "message": "Add item decay logic.",
+            "insertions": 39,
+            "deletions": 3
+          },
+          {
+            "hash": "0bc267aba05aaaa2834531bcd419d5b31afc3bf8",
+            "message": "Fix build errors.",
+            "insertions": 15,
+            "deletions": 6
+          },
+          {
+            "hash": "eb944e5f304c1a8cbe8269032662e5dbe6d5f153",
+            "message": "Comment out defunc interface code.",
+            "insertions": 3,
+            "deletions": 1
+          },
+          {
+            "hash": "0235737f3c982f6f3141258923c7e618dd90c19d",
+            "message": "Fix up encode/decode stub for Items.",
+            "insertions": 56,
+            "deletions": 38
+          },
+          {
+            "hash": "eb4830511d93f06502876e8bcffce5d64e495fb1",
+            "message": "Add teams to game state.",
+            "insertions": 3,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-30",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-31",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-01",
+        "commitResults": []
+      },
+      {
+        "insertions": 184,
+        "deletions": 66,
+        "date": "2019-04-02",
+        "commitResults": [
+          {
+            "hash": "a7c95d8523e876d235074800b84dd0069fc6a06e",
+            "message": "Add GameObjects to GameState.",
+            "insertions": 60,
+            "deletions": 10
+          },
+          {
+            "hash": "7d18fdb66b78c23c4d31f6947024a78876ef3947",
+            "message": "Encode items with ItemType rather than name.",
+            "insertions": 17,
+            "deletions": 23
+          },
+          {
+            "hash": "f0ecf1b95590dfc94a1ecddcca8cbe557f2083dc",
+            "message": "Add path return when player.move is called.",
+            "insertions": 24,
+            "deletions": 2
+          },
+          {
+            "hash": "f0113db15fadb1fe1cadffe13ee2e6c193a329a3",
+            "message": "Add error message stub.",
+            "insertions": 23,
+            "deletions": 0
+          },
+          {
+            "hash": "8586d087483e9c117231f85ea4edf2a3dd50ccb0",
+            "message": "Change decoding scheme for Ship.",
+            "insertions": 59,
+            "deletions": 31
+          },
+          {
+            "hash": "1b6e9eae34a570421f0a5ea48d127b7125b8304b",
+            "message": "Minor fix for missing ShipUI GameObject.",
+            "insertions": 1,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 112,
+        "deletions": 88,
+        "date": "2019-04-03",
+        "commitResults": [
+          {
+            "hash": "1659a09dfc42b1d9ee54cea373fc2465b5e60e2f",
+            "message": "Add API for selling items on  Player.",
+            "insertions": 28,
+            "deletions": 21
+          },
+          {
+            "hash": "a5f2be4d955833d00842f12b55b2da74b9648c7b",
+            "message": "Add method to get nodes in range with roll on player.",
+            "insertions": 66,
+            "deletions": 49
+          },
+          {
+            "hash": "35c5e151520f7be6815c2a2f50fb8bdbef9962a6",
+            "message": "Fix bug with Ship\u0027s sell using removeItem.",
+            "insertions": 18,
+            "deletions": 18
+          }
+        ]
+      },
+      {
+        "insertions": 139,
+        "deletions": 120,
+        "date": "2019-04-04",
+        "commitResults": [
+          {
+            "hash": "6eb247fd53c62d95df10a62ae246b190119eee2c",
+            "message": "Add API to get Buy/Sell items at ports.",
+            "insertions": 34,
+            "deletions": 37
+          },
+          {
+            "hash": "4bc7874ac367322d788a3d1a0b697e2de1f57bc5",
+            "message": "Fix build errors.",
+            "insertions": 17,
+            "deletions": 15
+          },
+          {
+            "hash": "3d0a16e6ac8d717ef13df12d9ab2591fff0a8a31",
+            "message": "Fix port encoding issue.",
+            "insertions": 43,
+            "deletions": 31
+          },
+          {
+            "hash": "a1a400045ae4f2ac071da7ec96d760e9bdbcba59",
+            "message": "Fix build errors.",
+            "insertions": 8,
+            "deletions": 8
+          },
+          {
+            "hash": "612c879c04b74534e738945e463d344ad2242ace",
+            "message": "Push all errors into port item datasource.",
+            "insertions": 33,
+            "deletions": 25
+          },
+          {
+            "hash": "7eb24fead02ffefcbbec6fe693884a8b37002e98",
+            "message": "Fix remaining ItemType/Parameter mismatch.",
+            "insertions": 4,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-05",
+        "commitResults": []
+      },
+      {
+        "insertions": 8,
+        "deletions": 15,
+        "date": "2019-04-06",
+        "commitResults": [
+          {
+            "hash": "389bbc9f880dd9635c7cfe38097fb61f6ad373c6",
+            "message": "Fix item purchase to negative money, fix player money negative.",
+            "insertions": 6,
+            "deletions": 5
+          },
+          {
+            "hash": "c60b73202f9bbf30de6f0ca7fd4c3c8153789ae6",
+            "message": "Remove commented code from Ship.",
+            "insertions": 0,
+            "deletions": 8
+          },
+          {
+            "hash": "3658efeec2d223c024cada666423f7cfab1a5440",
+            "message": "Remove some trailing whitespace.",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 178,
+        "deletions": 90,
+        "date": "2019-04-07",
+        "commitResults": [
+          {
+            "hash": "29cf4567fb45fb92fd5be30a5d14f1f41bec6627",
+            "message": "Prevent player money from going below 0.",
+            "insertions": 13,
+            "deletions": 7
+          },
+          {
+            "hash": "2d92c405fb2907df4da2325164e5de7fd21818c4",
+            "message": "Add missing colon.",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "1091e6cec71560a7cf37258d4ccdd9bdf40dd9c4",
+            "message": "Add upgrades.",
+            "insertions": 80,
+            "deletions": 1
+          },
+          {
+            "hash": "9e638cc9064625e0d65b1cd7446219ce62d5478b",
+            "message": "Fix array typing.",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "e148abdc3842877301762e23614ffd0f5b8af26d",
+            "message": "Fix protocol conformance.",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "f04e9eff9c04c45aa86739b1fc35a0e2198d64cc",
+            "message": "Fix typo.",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "d3ddf3fedad4d33db90eeaac476eb652c4027d1d",
+            "message": "Fix ship sell item bug.",
+            "insertions": 8,
+            "deletions": 4
+          },
+          {
+            "hash": "23d026b443bc0f3cb19b6edf9101f16d16d25cbf",
+            "message": "Tidy code.",
+            "insertions": 71,
+            "deletions": 72
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-08",
+        "commitResults": []
+      },
+      {
+        "insertions": 125,
+        "deletions": 78,
+        "date": "2019-04-09",
+        "commitResults": [
+          {
+            "hash": "5ef973fe93ad16a6641ecf18acabea675715bb94",
+            "message": "Remove showMessage from Ship.",
+            "insertions": 114,
+            "deletions": 67
+          },
+          {
+            "hash": "01da89f4730a5494bc0cfa5c79ae0a5857f1b132",
+            "message": "Correct typo of deficit.",
+            "insertions": 11,
+            "deletions": 11
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-10",
+        "commitResults": []
+      },
+      {
+        "insertions": 274,
+        "deletions": 57,
+        "date": "2019-04-11",
+        "commitResults": [
+          {
+            "hash": "aefab1ca5ebec4f7a596a3d622214aa0b753ea71",
+            "message": "Change BuyItem and SellItem to have messages.",
+            "insertions": 14,
+            "deletions": 2
+          },
+          {
+            "hash": "1b45471c1acec5100810770a2a0a5356797e6659",
+            "message": "Fix weather computation",
+            "insertions": 174,
+            "deletions": 27
+          },
+          {
+            "hash": "eb82a593cfe3d22f380fc02f0bfe5cc976a4a58a",
+            "message": "Fix node id issue with ship.",
+            "insertions": 2,
+            "deletions": 3
+          },
+          {
+            "hash": "8e9c6abad3adf5c4fcbc53e5b6f6c9544a87a00d",
+            "message": "Finish pirates event+gameState.",
+            "insertions": 84,
+            "deletions": 25
+          }
+        ]
+      },
+      {
+        "insertions": 16,
+        "deletions": 43,
+        "date": "2019-04-12",
+        "commitResults": [
+          {
+            "hash": "ca41c15441750b3c35f1b686c0ec59aa9c47c837",
+            "message": "Add missing link between turn system and event system for pirate.",
+            "insertions": 16,
+            "deletions": 43
+          }
+        ]
+      },
+      {
+        "insertions": 1677,
+        "deletions": 1073,
+        "date": "2019-04-13",
+        "commitResults": [
+          {
+            "hash": "6a4d09ef47197458681c6b518ae4cda5983992de",
+            "message": "Add pirate to map model, add pirate chance computation to player.",
+            "insertions": 249,
+            "deletions": 12
+          },
+          {
+            "hash": "86cd938cbe21869a329d8a02813e32932ef043a9",
+            "message": "Remove files.",
+            "insertions": 0,
+            "deletions": 45
+          },
+          {
+            "hash": "5379f8bdf5213236ac5027801244c90431721227",
+            "message": "Replace if with switch case in ObjectsViewController.",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "84a6b751534d24807e601b7be8b21f762ed58aff",
+            "message": "Remove obsolete code for node gameobjects in ship move.",
+            "insertions": 1,
+            "deletions": 9
+          },
+          {
+            "hash": "ce7b6472cbfaf32a5e7322bce11b1642797e67cc",
+            "message": "Correct typo.",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "4d711f80ad73227314c20ff3464234309ef41def",
+            "message": "Fix broken test.",
+            "insertions": 4,
+            "deletions": 0
+          },
+          {
+            "hash": "5a219b8b1a73400560fe791634426418fefab078",
+            "message": "Reorganise Ship Code to be more modular.",
+            "insertions": 203,
+            "deletions": 98
+          },
+          {
+            "hash": "1dde39bb60d9b8ca71f5eab0c702e4aac1471376",
+            "message": "Add GameMaster, and make a bunch of properties nil.",
+            "insertions": 511,
+            "deletions": 18
+          },
+          {
+            "hash": "47cd0b0d85cee4b2ee671c677563963a938b879c",
+            "message": "Remove files.",
+            "insertions": 0,
+            "deletions": 348
+          },
+          {
+            "hash": "ceb9fa0c18c8d8de756df85d996f056af635a796",
+            "message": "Reorganise code for Ship.",
+            "insertions": 570,
+            "deletions": 2
+          },
+          {
+            "hash": "bc405ae8dd3c7ff8b6d18ab96a68b4362c337cc1",
+            "message": "Remove files.",
+            "insertions": 0,
+            "deletions": 502
+          },
+          {
+            "hash": "3239e34135470f8384c8468850df2272dab6b370",
+            "message": "Add skeleton for Ship tests.",
+            "insertions": 137,
+            "deletions": 37
+          }
+        ]
+      },
+      {
+        "insertions": 622,
+        "deletions": 196,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "4d0bf2c093addb8d243c2066417130adadc01693",
+            "message": "Add tests for ShipAPI.",
+            "insertions": 341,
+            "deletions": 15
+          },
+          {
+            "hash": "2fe009c7c92c18510271db3f5f2e200d70c5394f",
+            "message": "Encode/decode name for GameMaster.",
+            "insertions": 10,
+            "deletions": 4
+          },
+          {
+            "hash": "6fa68b9cb035944fe2dc762980550ceaad706203",
+            "message": "Remove obsolete code from Ship and Player.",
+            "insertions": 27,
+            "deletions": 44
+          },
+          {
+            "hash": "72549dcd0bed2b2c653047c8add37648894d67e0",
+            "message": "Delete Consumable, move NPCUI.",
+            "insertions": 31,
+            "deletions": 25
+          },
+          {
+            "hash": "405c8aedfe6d6a7a1494a8f508876f65f6e916c3",
+            "message": "remove files.",
+            "insertions": 0,
+            "deletions": 20
+          },
+          {
+            "hash": "28ca8b80d4855b3dce022068c1869ec90bbf3b75",
+            "message": "Halfway through NPC implementation, have build issue.",
+            "insertions": 184,
+            "deletions": 72
+          },
+          {
+            "hash": "ba8916a90f76904a7d3f6bdab01d29e3420313aa",
+            "message": "Finish NPCs.",
+            "insertions": 18,
+            "deletions": 9
+          },
+          {
+            "hash": "2d4dfa3b8e528ac92a5edb2f48246c72a9aed0d4",
+            "message": "Fix coding problem for NPCs in map.",
+            "insertions": 3,
+            "deletions": 0
+          },
+          {
+            "hash": "465f6c88e3bb1ae3e5e71aa7ba451c926efe3da8",
+            "message": "Fix mismatching API on NPC for moveToNextNode.",
+            "insertions": 8,
+            "deletions": 7
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-15",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-16",
+        "commitResults": []
+      }
+    ],
+    "Jason Chong": [
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-15",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-16",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-17",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-18",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-19",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-20",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-21",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-22",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-23",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-24",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-25",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-26",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-27",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-28",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-01",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-02",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-03",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-04",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-05",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-06",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-07",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-08",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-09",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-10",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-11",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-13",
+        "commitResults": []
+      },
+      {
+        "insertions": 235,
+        "deletions": 0,
+        "date": "2019-03-14",
+        "commitResults": [
+          {
+            "hash": "8c27a47849927ab66bcd818f75bbc0e1e1c565e5",
+            "message": "Create workspace",
+            "insertions": 134,
+            "deletions": 0
+          },
+          {
+            "hash": "d9ce9361aa5a84851171304074ac6791f0e3fbad",
+            "message": "Add structs for environment",
+            "insertions": 101,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-15",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-16",
+        "commitResults": []
+      },
+      {
+        "insertions": 574,
+        "deletions": 96,
+        "date": "2019-03-17",
+        "commitResults": [
+          {
+            "hash": "82cb75a3fc10081eaedd0bb0e71e82a07d803f1d",
+            "message": "Partially implement interface",
+            "insertions": 347,
+            "deletions": 38
+          },
+          {
+            "hash": "460fca39ca583f3abbd179dafcb3fa75a126f5c2",
+            "message": "Add Interface support for changing month",
+            "insertions": 8,
+            "deletions": 0
+          },
+          {
+            "hash": "d7b29b5d28a40940490a9a6ac8bbe27ab608c804",
+            "message": "Enable panning and zooming",
+            "insertions": 190,
+            "deletions": 6
+          },
+          {
+            "hash": "86cf94aff8783728e32019eba4e088cf7b15c68e",
+            "message": "Implement proper zooming",
+            "insertions": 29,
+            "deletions": 52
+          }
+        ]
+      },
+      {
+        "insertions": 199,
+        "deletions": 29,
+        "date": "2019-03-18",
+        "commitResults": [
+          {
+            "hash": "d8ab4fefa3f9f9dbc6a385423a5b60d26a5205d8",
+            "message": "Add interface sync on subscription",
+            "insertions": 13,
+            "deletions": 1
+          },
+          {
+            "hash": "7647b5802ab0b820c878540f00ec24517ee3ff1a",
+            "message": "Implement pause and show alert api for interface",
+            "insertions": 5,
+            "deletions": 0
+          },
+          {
+            "hash": "4650085ca552b0e99731d5ccc35cd1580b34fd93",
+            "message": "Implement paths in interface",
+            "insertions": 97,
+            "deletions": 7
+          },
+          {
+            "hash": "ad140d720967607afdc51e7033cf36702030d01c",
+            "message": "Sea now inherits from Node",
+            "insertions": 9,
+            "deletions": 3
+          },
+          {
+            "hash": "ab486c7c6b290ab37a7dc42c6dfcb30093f92dc9",
+            "message": "Create subscription wrapper in Interface",
+            "insertions": 9,
+            "deletions": 2
+          },
+          {
+            "hash": "5624b041147b9b045e86b73269c22e543de69fe1",
+            "message": "Interface maintains state until changes are broadcasted",
+            "insertions": 24,
+            "deletions": 15
+          },
+          {
+            "hash": "bc45bd874a18cf5c1d4a9488b9a3e90957be5ce0",
+            "message": "Add blur effect to port information",
+            "insertions": 20,
+            "deletions": 1
+          },
+          {
+            "hash": "9b43dfc1cc672ca72c9a5240381f6cc6bf0b0b0c",
+            "message": "Implement UIGameImageView class",
+            "insertions": 22,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 319,
+        "deletions": 66,
+        "date": "2019-03-19",
+        "commitResults": [
+          {
+            "hash": "044d488bfec15b9ab42f29e317545783c7556052",
+            "message": "Add partial player information display",
+            "insertions": 171,
+            "deletions": 41
+          },
+          {
+            "hash": "13b9aee3f981b450a5b85d87740c09c2480096b8",
+            "message": "Implement showTravelChoices in interface",
+            "insertions": 86,
+            "deletions": 3
+          },
+          {
+            "hash": "c3b5da3ab66ae0e1c1cc352dae8781281b8cbac0",
+            "message": "Add wrapper for publish subject",
+            "insertions": 34,
+            "deletions": 8
+          },
+          {
+            "hash": "16bc9315bef62373c2b3a5a29879294048908668",
+            "message": "Add turn time limit support",
+            "insertions": 28,
+            "deletions": 14
+          }
+        ]
+      },
+      {
+        "insertions": 171,
+        "deletions": 52,
+        "date": "2019-03-20",
+        "commitResults": [
+          {
+            "hash": "258395ae366a5cdaba69201a734fda2a4256723b",
+            "message": "Add \"dice roll\" animation",
+            "insertions": 41,
+            "deletions": 19
+          },
+          {
+            "hash": "7fd6159d3e519f5978c83ca8e3fa91bfb4c1a74a",
+            "message": "Add comments to Interface API",
+            "insertions": 47,
+            "deletions": 0
+          },
+          {
+            "hash": "c951ee6205bed8b4a5121243e96e9a041efda051",
+            "message": "Add capability to support all aspect ratios",
+            "insertions": 39,
+            "deletions": 10
+          },
+          {
+            "hash": "a25f5cea3b12de8e8840fb0de8d8510279baf4d5",
+            "message": "Add modifiers to path",
+            "insertions": 44,
+            "deletions": 23
+          }
+        ]
+      },
+      {
+        "insertions": 475,
+        "deletions": 278,
+        "date": "2019-03-21",
+        "commitResults": [
+          {
+            "hash": "0b9779cca35edfd8d72184a6d6faa79b7b094480",
+            "message": "Remove RxCocoa and Abstracted PathsViewController",
+            "insertions": 119,
+            "deletions": 75
+          },
+          {
+            "hash": "a7d6513fec1b7ce472e1529d779ba146def8a82f",
+            "message": "Extract ObjectsViewController",
+            "insertions": 133,
+            "deletions": 101
+          },
+          {
+            "hash": "cbd044b188258e3e09d92dc0b1c4bcb2b3e70dca",
+            "message": "Shortened functions in MainGameViewController",
+            "insertions": 32,
+            "deletions": 20
+          },
+          {
+            "hash": "3dfca68149a663acccc9911dcf5a505f5e41af8a",
+            "message": "Extract and implement UIBlurredBackgroundView",
+            "insertions": 40,
+            "deletions": 23
+          },
+          {
+            "hash": "14e797beb9977a0173bb0ae64041eab3a5879c17",
+            "message": "Group Interface files appropriately",
+            "insertions": 0,
+            "deletions": 0
+          },
+          {
+            "hash": "9bd053b05b24a6ea8bb25261bde456c58a563e43",
+            "message": "Remove redundant guard condition",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "1f67a086c5b033252924f4d173273f6242f1ba2b",
+            "message": "Remove addBlurBackground from MainGameViewController",
+            "insertions": 0,
+            "deletions": 10
+          },
+          {
+            "hash": "b0ac44ac882337db71e790062bcc2b6f66798d0a",
+            "message": "Make ports selectable to show Information",
+            "insertions": 33,
+            "deletions": 6
+          },
+          {
+            "hash": "dbdb846622234a3e370a83db7f60de8600b3414a",
+            "message": "Extract fade out into its own function",
+            "insertions": 15,
+            "deletions": 7
+          },
+          {
+            "hash": "51bf893e824b804e94b1308961ae9b44cc1c6253",
+            "message": "Remove redundant disposeBag in Interface",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "0f5e3a4028a5ac8120a77479232029677e61286d",
+            "message": "Move GameObject to common",
+            "insertions": 0,
+            "deletions": 0
+          },
+          {
+            "hash": "00df5805bf9878afda6e6f5a07cd3efb67f6c5dc",
+            "message": "Remove UIImageView reference from game object and clean up NodeView",
+            "insertions": 20,
+            "deletions": 18
+          },
+          {
+            "hash": "47334f2ba57dc28f218b1f3c41ae01eafb9ddd6f",
+            "message": "Rename initLabel",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "8486f2cc93cbe5896256d1c0db53a1073b7b6561",
+            "message": "Make Interface properties private set",
+            "insertions": 11,
+            "deletions": 5
+          },
+          {
+            "hash": "4d6b038963522dbd62b054df005eac356855ca90",
+            "message": "Update interface to use GenericPlayer instead",
+            "insertions": 8,
+            "deletions": 3
+          },
+          {
+            "hash": "4284b88c3e9a3756c65faf1fd51e67a9f807b7e1",
+            "message": "Add support for animated GameObject",
+            "insertions": 61,
+            "deletions": 5
+          }
+        ]
+      },
+      {
+        "insertions": 285,
+        "deletions": 60,
+        "date": "2019-03-22",
+        "commitResults": [
+          {
+            "hash": "1f324d6f6793f1d71c9c2362bff2c3969ab36e16",
+            "message": "Remove unused variable",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "298294bf90d87707b6edbc4ae9c5bc71deb236b6",
+            "message": "Extract paths storage in Interface and ViewController to ObjectPaths",
+            "insertions": 81,
+            "deletions": 33
+          },
+          {
+            "hash": "637826838261018cb7c1d06b0ff8bc48ccc9f1f0",
+            "message": "Fix build errors from previous commit",
+            "insertions": 3,
+            "deletions": 4
+          },
+          {
+            "hash": "36e1b0fd9083b9913ebca557b253752705e808eb",
+            "message": "Implement port information on select",
+            "insertions": 81,
+            "deletions": 3
+          },
+          {
+            "hash": "d256cf72907de68e2c8ff55e040580ae1701bab6",
+            "message": "Port item interface",
+            "insertions": 114,
+            "deletions": 18
+          },
+          {
+            "hash": "4bf4ceaf8305ba5c6bfdaaa411932e5d7e5e913a",
+            "message": ".",
+            "insertions": 6,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 188,
+        "deletions": 5,
+        "date": "2019-03-23",
+        "commitResults": [
+          {
+            "hash": "123b7269f45b26b63e445f1f0f789f2a2e0d8bee",
+            "message": "Add support for player item table",
+            "insertions": 105,
+            "deletions": 1
+          },
+          {
+            "hash": "b49c8540c22f313e6fbf80a5bd720d447c940a02",
+            "message": "Add some interface tests and fix compile errors",
+            "insertions": 83,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 217,
+        "deletions": 31,
+        "date": "2019-03-24",
+        "commitResults": [
+          {
+            "hash": "55b199951291693c4a1169d8777de6c4fdfd9c1b",
+            "message": "Deprecated GameObject and Path usage in Interface API",
+            "insertions": 66,
+            "deletions": 22
+          },
+          {
+            "hash": "f544319df834fb1754564afa4f52425953203db3",
+            "message": "Add InterfaceDrawable and InterfaceEvent",
+            "insertions": 151,
+            "deletions": 9
+          }
+        ]
+      },
+      {
+        "insertions": 335,
+        "deletions": 218,
+        "date": "2019-03-25",
+        "commitResults": [
+          {
+            "hash": "96a3fbbf699f814e41d49f316439400472295d68",
+            "message": "Add interface drawables",
+            "insertions": 335,
+            "deletions": 218
+          }
+        ]
+      },
+      {
+        "insertions": 143,
+        "deletions": 22,
+        "date": "2019-03-26",
+        "commitResults": [
+          {
+            "hash": "f241a31ac95296c6b8c6934dc9d5556f0553c998",
+            "message": "Complete implementation for ContextDrawable",
+            "insertions": 84,
+            "deletions": 3
+          },
+          {
+            "hash": "7fbc494770366dd4c9800df054a49d4f44f9552e",
+            "message": "Fix interface unit tests",
+            "insertions": 59,
+            "deletions": 19
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-27",
+        "commitResults": []
+      },
+      {
+        "insertions": 1034,
+        "deletions": 44,
+        "date": "2019-03-28",
+        "commitResults": [
+          {
+            "hash": "870c77e1108e1c698e43c2de89470260134caf2d",
+            "message": "Partial implementation for network layer",
+            "insertions": 308,
+            "deletions": 2
+          },
+          {
+            "hash": "5496a0e220ed60d8dd27edd4ab7c1ba215b91238",
+            "message": "Partial implementation for network layer",
+            "insertions": 308,
+            "deletions": 2
+          },
+          {
+            "hash": "cb628eedf3989c6d436fd9ffc1fdac54ed2d2ce8",
+            "message": "Network mostly implemented",
+            "insertions": 209,
+            "deletions": 20
+          },
+          {
+            "hash": "47d8f0a38970e627ec18f09f0f90ef13af7aaecb",
+            "message": "Network mostly implemented",
+            "insertions": 209,
+            "deletions": 20
+          }
+        ]
+      },
+      {
+        "insertions": 428,
+        "deletions": 162,
+        "date": "2019-03-29",
+        "commitResults": [
+          {
+            "hash": "e3c98964c9bcbec75d810f9f9d994dcff6e238dc",
+            "message": "Improved wrapper for ObservableObject",
+            "insertions": 37,
+            "deletions": 38
+          },
+          {
+            "hash": "1e127bacdc18a6520cd5c1fb3a61c641c7e5e578",
+            "message": "Improved wrapper for ObservableObject",
+            "insertions": 37,
+            "deletions": 38
+          },
+          {
+            "hash": "d46cbb2e27dd1c0c7634b7fc94a60d9b3ca97761",
+            "message": "Improve RxSwift wrappers",
+            "insertions": 12,
+            "deletions": 27
+          },
+          {
+            "hash": "42233a4a3137b33f934d3e4ba8084104165170ea",
+            "message": "Improve RxSwift wrappers",
+            "insertions": 12,
+            "deletions": 27
+          },
+          {
+            "hash": "5a36c29c08372cbe0989b7c80acd1b1876bfd4eb",
+            "message": "Improve firebase wrapping",
+            "insertions": 165,
+            "deletions": 16
+          },
+          {
+            "hash": "d31b98b1c1f1db88ba0aa4b22b25777f3a7974bf",
+            "message": "Improve firebase wrapping",
+            "insertions": 165,
+            "deletions": 16
+          }
+        ]
+      },
+      {
+        "insertions": 246,
+        "deletions": 139,
+        "date": "2019-03-30",
+        "commitResults": [
+          {
+            "hash": "93e7e41431fc5ae942162ed8449d2b5012c52d73",
+            "message": "Changes",
+            "insertions": 110,
+            "deletions": 113
+          },
+          {
+            "hash": "48083d4d56ffaa3e59b2a78bc7502143c6e4e6dc",
+            "message": "no message",
+            "insertions": 24,
+            "deletions": 12
+          },
+          {
+            "hash": "73863ce8063593a411128c080e9964d49bc10b44",
+            "message": "Make GameObject inherit from BaseGameObject",
+            "insertions": 101,
+            "deletions": 7
+          },
+          {
+            "hash": "afbd702512f3bb25d0cff6696e778684cf860ea1",
+            "message": "Fix not calling observer on field set",
+            "insertions": 11,
+            "deletions": 7
+          }
+        ]
+      },
+      {
+        "insertions": 146,
+        "deletions": 143,
+        "date": "2019-03-31",
+        "commitResults": [
+          {
+            "hash": "e459dbbc150227f4d8fa01660fe4b70f01225147",
+            "message": "Change network adt",
+            "insertions": 146,
+            "deletions": 143
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-01",
+        "commitResults": []
+      },
+      {
+        "insertions": 583,
+        "deletions": 1872,
+        "date": "2019-04-02",
+        "commitResults": [
+          {
+            "hash": "63c5efd495fe7c78842db676d9577f7e32b236b8",
+            "message": "Basic implementation of rooms",
+            "insertions": 349,
+            "deletions": 21
+          },
+          {
+            "hash": "fce9baf79c20172c3581ec8e3680cf6226c3d0ba",
+            "message": "Reverse unintended change",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "31c9937f4a974bdd74863f500bc0266c976d7b2b",
+            "message": "cleanup unused code",
+            "insertions": 15,
+            "deletions": 1784
+          },
+          {
+            "hash": "4358e11a5d920af19116f65e0df714acbb6d0935",
+            "message": "Add game state initialization from waiting players.",
+            "insertions": 40,
+            "deletions": 23
+          },
+          {
+            "hash": "1d0d005143b0933b339583418f2e1854d6549070",
+            "message": "Fix build issues",
+            "insertions": 14,
+            "deletions": 20
+          },
+          {
+            "hash": "d85b0a7e455fecbb79e922a63d95284c9cdf74a4",
+            "message": "Turn System updates",
+            "insertions": 68,
+            "deletions": 14
+          },
+          {
+            "hash": "11e962ca9761167a4bf4082c1f59d6d6409073c4",
+            "message": "Partial implementation for startGame",
+            "insertions": 93,
+            "deletions": 9
+          },
+          {
+            "hash": "b7f5c45f3eadcc29321dcff4872be0a14804a241",
+            "message": "l",
+            "insertions": 3,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 336,
+        "deletions": 191,
+        "date": "2019-04-03",
+        "commitResults": [
+          {
+            "hash": "ad6eb6a71f099fe52065e8ff0b4eee2d7fb759d1",
+            "message": "Make gameobjects observable",
+            "insertions": 54,
+            "deletions": 21
+          },
+          {
+            "hash": "ac835f682e0b411d7b01c1b2dffc267feb45076b",
+            "message": "Implemented functionalities",
+            "insertions": 282,
+            "deletions": 170
+          }
+        ]
+      },
+      {
+        "insertions": 383,
+        "deletions": 204,
+        "date": "2019-04-04",
+        "commitResults": [
+          {
+            "hash": "5013b8470d0ca626acc03c31d72b1a0acae42b7e",
+            "message": "Game is able to start",
+            "insertions": 142,
+            "deletions": 88
+          },
+          {
+            "hash": "9dcfa8cd14daa9f80056137f6e994111f1b63c4d",
+            "message": "Fix build error",
+            "insertions": 2,
+            "deletions": 3
+          },
+          {
+            "hash": "4b2eb89119060affdcd16be788d45b4e962efc7b",
+            "message": "Implement network action processing",
+            "insertions": 83,
+            "deletions": 16
+          },
+          {
+            "hash": "111272ac3c817a29dae78e9265e618dd8600452d",
+            "message": "Add todo for conflicting taxes",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "94e2fd1cb4d7132d9fe7df3048dff71def57d174",
+            "message": "Implement basic game functionality",
+            "insertions": 155,
+            "deletions": 97
+          }
+        ]
+      },
+      {
+        "insertions": 209,
+        "deletions": 307,
+        "date": "2019-04-05",
+        "commitResults": [
+          {
+            "hash": "d1b901bb22c559c964b233f0afad4dc9097e7eee",
+            "message": "Interface frames independant from model frame",
+            "insertions": 68,
+            "deletions": 218
+          },
+          {
+            "hash": "b64fcf1cbab1bce1b685469ef8dce4d9acdd8abb",
+            "message": "Implement turn time limit",
+            "insertions": 52,
+            "deletions": 36
+          },
+          {
+            "hash": "74f93386fcf624ccf24930a6349af78cacd44476",
+            "message": "Partial implementation of buy/sell",
+            "insertions": 86,
+            "deletions": 53
+          },
+          {
+            "hash": "3f05cfd263c2eecccfc4b762daba0d21e1a519b5",
+            "message": "Fix missing parameters",
+            "insertions": 3,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 111,
+        "deletions": 36,
+        "date": "2019-04-06",
+        "commitResults": [
+          {
+            "hash": "01fc07fcd2e2e3fe58d292c4cff1d85da3414071",
+            "message": "Implement multiplayer",
+            "insertions": 111,
+            "deletions": 36
+          }
+        ]
+      },
+      {
+        "insertions": 53,
+        "deletions": 71,
+        "date": "2019-04-07",
+        "commitResults": [
+          {
+            "hash": "861eb83acb593045be4269b9c92d0512a685bfa9",
+            "message": "Fix sell items not visible",
+            "insertions": 50,
+            "deletions": 67
+          },
+          {
+            "hash": "3b376cdd9d6c51e25060010e4b7144898ccf75f2",
+            "message": "Fix bug with image size",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "34954a91199a88ef2ba446962b6b29c26f508847",
+            "message": "Fix build error",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "08a12d99c50a7010d727c0d15af39421ff741719",
+            "message": "Fix cyclic observer dependancy preventing the game from running",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "c5681279e3b0ea22cd5368a818b560b7fa2c92ce",
+            "message": "Fix errors",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-08",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-09",
+        "commitResults": []
+      },
+      {
+        "insertions": 208,
+        "deletions": 33,
+        "date": "2019-04-10",
+        "commitResults": [
+          {
+            "hash": "d4d00e8591039cc772f56e196708e4692fb7f832",
+            "message": "Integrate upgrades with interface",
+            "insertions": 190,
+            "deletions": 29
+          },
+          {
+            "hash": "d44a48dd01e19a58bc328ce53992e7767a2a98b3",
+            "message": "Integrate buy upgrade with network",
+            "insertions": 18,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-11",
+        "commitResults": []
+      },
+      {
+        "insertions": 312,
+        "deletions": 121,
+        "date": "2019-04-12",
+        "commitResults": [
+          {
+            "hash": "77e56cacc1858f08f09413235811ee65eacfd820",
+            "message": "Add team money view and weather view",
+            "insertions": 311,
+            "deletions": 120
+          },
+          {
+            "hash": "88f7abf6a40193f44a5e61931a16f82b8f0257b2",
+            "message": "Fix build errors",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 99,
+        "deletions": 23,
+        "date": "2019-04-13",
+        "commitResults": [
+          {
+            "hash": "2d1faa0533af4a17349c3a2ea7ab7762b72f3919",
+            "message": "General fixes",
+            "insertions": 10,
+            "deletions": 1
+          },
+          {
+            "hash": "4ce8206e49b472ad5bf8b04d58589388c916adac",
+            "message": "General fixes",
+            "insertions": 89,
+            "deletions": 22
+          }
+        ]
+      },
+      {
+        "insertions": 440,
+        "deletions": 365,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "d7f0eb994a1f7358364093f519bc0e6c4596accc",
+            "message": "Add pirate and fix network bugs",
+            "insertions": 312,
+            "deletions": 256
+          },
+          {
+            "hash": "0cb0b70b70484507275b930b82e0abc81bdb0c0f",
+            "message": "Add local multiplayer",
+            "insertions": 128,
+            "deletions": 109
+          }
+        ]
+      },
+      {
+        "insertions": 598,
+        "deletions": 592,
+        "date": "2019-04-15",
+        "commitResults": [
+          {
+            "hash": "7df9fa17b1658e3a226c937335a2bd882c1c0959",
+            "message": "Implement set tax",
+            "insertions": 103,
+            "deletions": 26
+          },
+          {
+            "hash": "d69a6939b269b525b0e4a3e24de8d76140def652",
+            "message": "Fix crash",
+            "insertions": 4,
+            "deletions": 2
+          },
+          {
+            "hash": "ee3f7293e2d66deb9e5f826fd9e83c3c9b290434",
+            "message": "Delete old turnsystem",
+            "insertions": 491,
+            "deletions": 564
+          }
+        ]
+      },
+      {
+        "insertions": 242,
+        "deletions": 174,
+        "date": "2019-04-16",
+        "commitResults": [
+          {
+            "hash": "41303af26d937f8beb49e90da02620ab07327695",
+            "message": "Fix game state encoding",
+            "insertions": 242,
+            "deletions": 174
+          }
+        ]
+      }
+    ],
+    "Yu Pei Henry": [
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-15",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-16",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-17",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-18",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-19",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-20",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-21",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-22",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-23",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-24",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-25",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-26",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-27",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-28",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-01",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-02",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-03",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-04",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-05",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-06",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-07",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-08",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-09",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-10",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-11",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-13",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-14",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-15",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-16",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-17",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-18",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-19",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-20",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-21",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-22",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-23",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-24",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-25",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-26",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-27",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-28",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-29",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-30",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-31",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-01",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-02",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-03",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-04",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-05",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-06",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-07",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-08",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-09",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-10",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-11",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-13",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-14",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-15",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-16",
+        "commitResults": []
+      }
+    ],
+    "yuhongherald": [
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-15",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-16",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-17",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-18",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-19",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-20",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-21",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-22",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-23",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-24",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-25",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-26",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-27",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-02-28",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-01",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-02",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-03",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-04",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-05",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-06",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-07",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-08",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-09",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-10",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-11",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-13",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-14",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-15",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-16",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-17",
+        "commitResults": []
+      },
+      {
+        "insertions": 405,
+        "deletions": 117,
+        "date": "2019-03-18",
+        "commitResults": [
+          {
+            "hash": "890e4b6b1b314a44046e5bc2f255e48225d12b17",
+            "message": "add protocols",
+            "insertions": 210,
+            "deletions": 0
+          },
+          {
+            "hash": "c27d2d607d41d197d716fbf534cbeec567ee81fd",
+            "message": "update",
+            "insertions": 108,
+            "deletions": 64
+          },
+          {
+            "hash": "7ee78b128ead23441f2a596970bcfc4127f3ae3e",
+            "message": "swiftlint",
+            "insertions": 35,
+            "deletions": 38
+          },
+          {
+            "hash": "3207d697b5aa41f99b2f290b4a9d63fdd92c6f84",
+            "message": "add emotion engine logic",
+            "insertions": 52,
+            "deletions": 15
+          }
+        ]
+      },
+      {
+        "insertions": 190,
+        "deletions": 24,
+        "date": "2019-03-19",
+        "commitResults": [
+          {
+            "hash": "74abf4a7ff05cbbd0b33508733735b3a0f265c80",
+            "message": "Add gamespeed test for gamelogic",
+            "insertions": 82,
+            "deletions": 5
+          },
+          {
+            "hash": "93b5cc30065a828dcc9900ec499b4443889a99a3",
+            "message": "add test for settime",
+            "insertions": 17,
+            "deletions": 15
+          },
+          {
+            "hash": "ac055486a2c5d43167577aa9029b228e5c782417",
+            "message": "add stubs for updating game state",
+            "insertions": 91,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 888,
+        "deletions": 402,
+        "date": "2019-03-20",
+        "commitResults": [
+          {
+            "hash": "a76bfadab73c273f62086c37798c9910ea55c7f6",
+            "message": "wip",
+            "insertions": 460,
+            "deletions": 141
+          },
+          {
+            "hash": "d7d0f706bc7ba9e0c1b8211f557fcd558a9c4cc1",
+            "message": "remove files",
+            "insertions": 5,
+            "deletions": 128
+          },
+          {
+            "hash": "41ab8955e94ebe73b0d2c1f0311b2bda46eb491f",
+            "message": "edit",
+            "insertions": 6,
+            "deletions": 8
+          },
+          {
+            "hash": "77b1d3a3489bf36981c2d8de36dc91076b4245d9",
+            "message": "Make code compilable",
+            "insertions": 15,
+            "deletions": 3
+          },
+          {
+            "hash": "18ab41de08319fa76eca58d8aa062125f01ba634",
+            "message": "add event logic",
+            "insertions": 119,
+            "deletions": 45
+          },
+          {
+            "hash": "7a163c8bd978547e6c48c28b458f963b746312f5",
+            "message": "wip",
+            "insertions": 283,
+            "deletions": 77
+          }
+        ]
+      },
+      {
+        "insertions": 490,
+        "deletions": 195,
+        "date": "2019-03-21",
+        "commitResults": [
+          {
+            "hash": "893d379df20a3ee4387f771e7b4e5729a5d9e9ff",
+            "message": "Adding EngineObject as intermediate class",
+            "insertions": 317,
+            "deletions": 143
+          },
+          {
+            "hash": "01b1c95597e4ab8186131c29ba1ab91d02818a17",
+            "message": "Finish API",
+            "insertions": 173,
+            "deletions": 52
+          }
+        ]
+      },
+      {
+        "insertions": 1032,
+        "deletions": 576,
+        "date": "2019-03-22",
+        "commitResults": [
+          {
+            "hash": "91c980d69fd5724853f1baf0fa34e479096feab5",
+            "message": "non-compiling commit",
+            "insertions": 155,
+            "deletions": 92
+          },
+          {
+            "hash": "5be1071c6e3b2cca6d8b8783751655efb5c1f5b7",
+            "message": "tidying up code",
+            "insertions": 165,
+            "deletions": 198
+          },
+          {
+            "hash": "ce7a1228386e5237077626b03fa7c7fd0f8fa338",
+            "message": "wip",
+            "insertions": 113,
+            "deletions": 55
+          },
+          {
+            "hash": "dd99be875a6c7a34acaf2df50383051644faa311",
+            "message": "fix most compile errors",
+            "insertions": 59,
+            "deletions": 52
+          },
+          {
+            "hash": "f36f16cd7e047f51031fd1802b227c19d458c55b",
+            "message": "edits",
+            "insertions": 195,
+            "deletions": 69
+          },
+          {
+            "hash": "43fd7fd69101ac3073b4a8679af1e338b8e6794f",
+            "message": "wip",
+            "insertions": 31,
+            "deletions": 10
+          },
+          {
+            "hash": "45a664a6c72473025e24e1e70e1159eae3971cda",
+            "message": "add logic to update player position, writing test classes",
+            "insertions": 197,
+            "deletions": 8
+          },
+          {
+            "hash": "4e2b27ac0d48368694dc2e8e753ddbd3b9593996",
+            "message": "add test stubs",
+            "insertions": 117,
+            "deletions": 92
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-23",
+        "commitResults": []
+      },
+      {
+        "insertions": 4,
+        "deletions": 1,
+        "date": "2019-03-24",
+        "commitResults": [
+          {
+            "hash": "ae00b501b5268d83d44f15da3dd82a72c2afcc9b",
+            "message": "fix minor mistake in GameLogic",
+            "insertions": 4,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-25",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-03-26",
+        "commitResults": []
+      },
+      {
+        "insertions": 977,
+        "deletions": 304,
+        "date": "2019-03-27",
+        "commitResults": [
+          {
+            "hash": "7475a2c6b660b64c8c409f350ee3dd7926e2ece3",
+            "message": "add files",
+            "insertions": 385,
+            "deletions": 1
+          },
+          {
+            "hash": "8037d5b590556ededa338de235b905508c4cb409",
+            "message": "remove files",
+            "insertions": 0,
+            "deletions": 286
+          },
+          {
+            "hash": "afaa91711e34e341081b0d3f28a00ca1bbb52d4c",
+            "message": "merge",
+            "insertions": 369,
+            "deletions": 0
+          },
+          {
+            "hash": "b157144dd7761070c91cea4ed6f4577e438d9191",
+            "message": "add basic playeractions and events",
+            "insertions": 118,
+            "deletions": 9
+          },
+          {
+            "hash": "e7153ed11f32de7a3a9074c96db6571eec925d00",
+            "message": "minor edits",
+            "insertions": 105,
+            "deletions": 8
+          }
+        ]
+      },
+      {
+        "insertions": 500,
+        "deletions": 72,
+        "date": "2019-03-28",
+        "commitResults": [
+          {
+            "hash": "4c66e815c6aec35c30b8f285020ea8ba148eb27d",
+            "message": "wip events",
+            "insertions": 456,
+            "deletions": 35
+          },
+          {
+            "hash": "69a78f8ab703efc4b2fe6c4939f1a067805e1e0b",
+            "message": "wip",
+            "insertions": 44,
+            "deletions": 37
+          }
+        ]
+      },
+      {
+        "insertions": 225,
+        "deletions": 57,
+        "date": "2019-03-29",
+        "commitResults": [
+          {
+            "hash": "d08fca1d6982aeac7814a48dc6ebe997b884ecdd",
+            "message": "add evaluatable support for event actions",
+            "insertions": 207,
+            "deletions": 57
+          },
+          {
+            "hash": "91924c9fa880ad5af6e175cd12c60e290923cb5a",
+            "message": "minor change",
+            "insertions": 18,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 177,
+        "deletions": 114,
+        "date": "2019-03-30",
+        "commitResults": [
+          {
+            "hash": "ab37380f484b73281e04213d7a4f0b6993037963",
+            "message": "Change events to use triggers as observers",
+            "insertions": 177,
+            "deletions": 114
+          }
+        ]
+      },
+      {
+        "insertions": 385,
+        "deletions": 31,
+        "date": "2019-03-31",
+        "commitResults": [
+          {
+            "hash": "869efa152b202764faa340fb3ce779f2da9e72ca",
+            "message": "Add player and map class skeletons, need to add evaluators, operators, and support for array indexing",
+            "insertions": 355,
+            "deletions": 16
+          },
+          {
+            "hash": "a0a214afc4262ce2da56e23836856a9dc76c5ed2",
+            "message": "edit",
+            "insertions": 30,
+            "deletions": 15
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-01",
+        "commitResults": []
+      },
+      {
+        "insertions": 83,
+        "deletions": 40,
+        "date": "2019-04-02",
+        "commitResults": [
+          {
+            "hash": "01d1d7f087c15f4cf23a65f6e4651e9031b26bc2",
+            "message": "edit",
+            "insertions": 10,
+            "deletions": 1
+          },
+          {
+            "hash": "0d9f226a86320bb9aa1021650cec0edb15672685",
+            "message": "minor rework of turnsystem and playeractions",
+            "insertions": 73,
+            "deletions": 39
+          }
+        ]
+      },
+      {
+        "insertions": 153,
+        "deletions": 54,
+        "date": "2019-04-03",
+        "commitResults": [
+          {
+            "hash": "dd504f9d69571ece881c8f2bd3fd4be1783e5039",
+            "message": "modify player to throw buyItemError for buy/sell. Need to change TurnSystem to evaluate resulting money.",
+            "insertions": 95,
+            "deletions": 42
+          },
+          {
+            "hash": "d03fbe4d01926e344e49822b9960a8b58e1f1e6d",
+            "message": "edit TurnSystem",
+            "insertions": 58,
+            "deletions": 12
+          }
+        ]
+      },
+      {
+        "insertions": 284,
+        "deletions": 340,
+        "date": "2019-04-04",
+        "commitResults": [
+          {
+            "hash": "47a0b408fed39afe75383567994c1a3a14f46c8a",
+            "message": "rework events",
+            "insertions": 284,
+            "deletions": 340
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-05",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-06",
+        "commitResults": []
+      },
+      {
+        "insertions": 43,
+        "deletions": 10,
+        "date": "2019-04-07",
+        "commitResults": [
+          {
+            "hash": "85ad8a71f0b6e19c41841788f96228e3c54f6a30",
+            "message": "wip",
+            "insertions": 43,
+            "deletions": 10
+          }
+        ]
+      },
+      {
+        "insertions": 401,
+        "deletions": 99,
+        "date": "2019-04-08",
+        "commitResults": [
+          {
+            "hash": "fb51511085bdf24b38353fbaa844a3ca7106c9f5",
+            "message": "wip: events for monsoon, set tax, free tea, negate money. wip: extract turnsystem",
+            "insertions": 376,
+            "deletions": 63
+          },
+          {
+            "hash": "dba069e561ba651f3c10beded4bf2cff6b3daad9",
+            "message": "edit",
+            "insertions": 0,
+            "deletions": 27
+          },
+          {
+            "hash": "c4647edff84a7852bfee94e8c8d4e1d8a0cf366d",
+            "message": "wip",
+            "insertions": 25,
+            "deletions": 9
+          }
+        ]
+      },
+      {
+        "insertions": 530,
+        "deletions": 170,
+        "date": "2019-04-09",
+        "commitResults": [
+          {
+            "hash": "9834883cd1f8510efece5d864d88e6eca4dc2ca7",
+            "message": "add neutral tax and monsoon events",
+            "insertions": 124,
+            "deletions": 49
+          },
+          {
+            "hash": "05ec550b4d2d2947fac928697ceab00b340e2f69",
+            "message": "wip",
+            "insertions": 25,
+            "deletions": 1
+          },
+          {
+            "hash": "4d711e8e3227453ed683696550e8fc94d5053705",
+            "message": "wip presets table",
+            "insertions": 171,
+            "deletions": 65
+          },
+          {
+            "hash": "adc698305c4842114f7a1c1b69f1ff7bd4928b55",
+            "message": "wip",
+            "insertions": 22,
+            "deletions": 17
+          },
+          {
+            "hash": "d84514cba6b5d7f151ad2eb2259a45fa79957f76",
+            "message": "refine events, add item buy price event",
+            "insertions": 188,
+            "deletions": 38
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-10",
+        "commitResults": []
+      },
+      {
+        "insertions": 285,
+        "deletions": 144,
+        "date": "2019-04-11",
+        "commitResults": [
+          {
+            "hash": "ac370156b97d02e839a5c9ef8ba76f3cf1d66607",
+            "message": "add logic for preset event. wip gamemessage, need to write message parser",
+            "insertions": 160,
+            "deletions": 72
+          },
+          {
+            "hash": "c25d106ce1fba173be2425fef16a4609848349fc",
+            "message": "fix build errors",
+            "insertions": 12,
+            "deletions": 68
+          },
+          {
+            "hash": "32cd20c3f27f04e7e0dcef191429360ab1c9d9e9",
+            "message": "Add pirates. Add presetevents.",
+            "insertions": 113,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-13",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-14",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-15",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-16",
+        "commitResults": []
+      }
+    ]
+  },
+  "authorFinalContributionMap": {
+    "Yang Shuqi": 3246,
+    "henry": 2695,
+    "Jason Chong": 4439,
+    "Yu Pei Henry": 2,
+    "yuhongherald": 2614
+  },
+  "authorContributionVariance": {
+    "Yang Shuqi": 42236.71,
+    "henry": 143669.27,
+    "Jason Chong": 162217.56,
+    "Yu Pei Henry": 0.0,
+    "yuhongherald": 117079.33
+  },
+  "authorDisplayNameMap": {
+    "Yang Shuqi": "Yang Shuqi",
+    "henry": "henry",
+    "Jason Chong": "Jason Chong",
+    "Yu Pei Henry": "Yu Pei Henry",
+    "yuhongherald": "yuhongherald"
+  }
+}
