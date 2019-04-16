@@ -8,7 +8,7 @@
 ### ./get-reposense.py --release --overwrite   # Overwrite RepoSense.jar, if exists, with the latest release
 # dummy commit2
 
-./get-reposense.py --tag v1.8
+./get-reposense.py --tag v1.9rc
 
 # Executes RepoSense
 # Do not change the default output folder name (reposense-report)
